@@ -3,10 +3,13 @@
 git clone https://github.com/dino920135/Notes
 echo "$PWD"
 
-data_path='./pages/'
-file_pattern='*.md'
+cd Notes/pages
+echo "$PWD"
 
-for dir in **/pages/*/; do echo $(basename "$dir"); done
+# data_path='./pages/'
+# file_pattern='*.md'
+
+for dir in $PWD; do echo $(basename "$dir"); done
 
 # for directory in $(find ${data_path} -name ${file_pattern})
 # do
