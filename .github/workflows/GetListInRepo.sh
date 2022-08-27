@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd ../
 git clone https://github.com/dino920135/Notes
 echo "$PWD"
@@ -13,7 +11,7 @@ echo "$PWD"
 for dir in $PWD/*md
 do 
   file_name=$(basename "$dir")
-  file_name_wospace=${$file_name// /"%20"}
+  file_name_wospace=${$file_name | sed -e \"s/ /%20/g\"}
   echo $file_name_wospace
   echo "[$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name_wospace)" >> ../../dino920135/README.md
 done
