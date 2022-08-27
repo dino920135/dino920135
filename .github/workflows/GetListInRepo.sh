@@ -5,7 +5,7 @@ cd Notes
 
 echo "$PWD"
 
-data_path='pages/'
+data_path='./pages/'
 file_pattern='*.md'
 
 for directory in $(find ${data_path} -name ${file_pattern})
