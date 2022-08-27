@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 * [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
 * [TTY autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY autologin.md)
 * [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
+* [TTY autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY autologin.md)
+* [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
