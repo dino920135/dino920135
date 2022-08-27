@@ -15,4 +15,4 @@ jobs:
       - name: get current dir
         run: echo "$PWD"
       - name: get list
-        run: bash .github/workflows/GetListInRepo.sh
+        run: sh .github/workflows/GetListInRepo.sh
