@@ -9,7 +9,10 @@ echo "$PWD"
 # file_pattern='*.md'
 
 # Remove Old Lists
-sed '/* [\&.md)/d' ../../dino920135/README.md
+start=awk '/BLOG-POST-LIST:START/{ print NR; exit }' ../../dino920135/README.md
+end=awk '/BLOG-POST-LIST:END/{ print NR; exit }' ../../dino920135/README.md
+
+sed '$start,$end/* [/d' ../../dino920135/README.md
 cat ../../dino920135/README.md
 
 for dir in $PWD/*md
