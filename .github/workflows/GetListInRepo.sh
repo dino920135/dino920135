@@ -11,7 +11,7 @@ for directory in $(find ${data_path} -name ${file_pattern})
 do
     # echo $directory
     file_dir=$(dirname "$directory")
-    test_name=$(basename "$file_dir")
-    echo $file_dir
+    file_name=$(basename "$file_dir")
+    echo $file_name
 done
 
