@@ -1,6 +1,6 @@
 name: Latest blog post workflow
 on:
-  push:
+#   push:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
