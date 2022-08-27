@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ../../../
+cd ../
 git clone https://github.com/dino920135/Notes
 echo "$PWD"
 
