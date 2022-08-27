@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dino920135/dino920135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Tsai Syun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dino920135&show_icons=true&theme=dark)
