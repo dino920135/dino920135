@@ -2,7 +2,8 @@
 
 git clone https://github.com/dino920135/Notes
 cd Notes
-ls
+
+echo "$PWD"
 
 data_path='pages'
 file_pattern='*.md'
