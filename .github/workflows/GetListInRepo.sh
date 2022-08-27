@@ -9,7 +9,7 @@ echo "$PWD"
 # file_pattern='*.md'
 
 # Remove Old Lists
-sed -n '1,/BLOG-POST-LIST:START/p;/BLOG-POST-LIST:END/,$p' myfile # only delete between patterns
+sed -n '1,/BLOG-POST-LIST:START/p;/BLOG-POST-LIST:END/,$p' ../../dino920135/README.md # only delete between patterns
 
 cat ../../dino920135/README.md
 
