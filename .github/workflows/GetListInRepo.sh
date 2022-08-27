@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 cd ../
 git clone https://github.com/dino920135/Notes
