@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd ../../../
 git clone https://github.com/dino920135/Notes
 echo "$PWD"
 
@@ -9,7 +10,13 @@ echo "$PWD"
 # data_path='./pages/'
 # file_pattern='*.md'
 
-for dir in $PWD/*md; do echo $(basename "$dir"); done
+for dir in $PWD/*md
+do 
+  file_name=$(basename "$dir")
+  echo [$file_name](https://github.com/dino920135/Notes/pages/$file_name) >> ../../dino920135/README.md
+done
+
+cat ../../dino920135/README.md
 
 # for directory in $(find ${data_path} -name ${file_pattern})
 # do
