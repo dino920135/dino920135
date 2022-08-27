@@ -15,5 +15,6 @@ jobs:
       - name: Get list
         run: 
           bash git clone https://github.com/dino920135/Notes
-          bash echo $(find ./Notes/pages -name *.md)
+          bash ls
+          bash echo $(find ./Notes/pages/ -name *.md)
       
