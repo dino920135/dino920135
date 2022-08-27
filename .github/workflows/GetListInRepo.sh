@@ -9,10 +9,8 @@ echo "$PWD"
 # file_pattern='*.md'
 
 # Remove Old Lists
-start=awk '/BLOG-POST-LIST:START/{ print NR; exit }' ../../dino920135/README.md
-end=awk '/BLOG-POST-LIST:END/{ print NR; exit }' ../../dino920135/README.md
+sed -n '1,/BLOG-POST-LIST:START/p;/BLOG-POST-LIST:END/,$p' myfile # only delete between patterns
 
-sed '$start,$end/* [/d' ../../dino920135/README.md
 cat ../../dino920135/README.md
 
 for dir in $PWD/*md
