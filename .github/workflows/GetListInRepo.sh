@@ -13,6 +13,6 @@ do
     # echo $directory
     file_dir=$(dirname "$directory")
     file_name=$(basename "$file_dir")
-    echo $file_name
+    echo founnd $file_name
 done
 
