@@ -18,7 +18,7 @@ jobs:
         run: sh .github/workflows/GetListInRepo.sh
       - name: Push change
         run:
-          cat README.md
-          git add.
-          git commit -m "Update REAME.md throught Github Action"
+          cat README.md &&
+          git add. &&
+          git commit -m "Update REAME.md throught Github Action" &&
           git push
