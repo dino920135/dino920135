@@ -6,7 +6,7 @@ echo "$PWD"
 data_path='./pages/'
 file_pattern='*.md'
 
-for dir in **/pages/*/; do basename "$dir"; done
+for dir in **/pages/*/; do echo $(basename "$dir"); done
 
 # for directory in $(find ${data_path} -name ${file_pattern})
 # do
