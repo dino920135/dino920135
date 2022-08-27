@@ -15,5 +15,5 @@ jobs:
       - name: Get list
         run: 
           bash git clone https://github.com/dino920135/Notes
-          bash echo $(find ${data_path} -name ${pwrpak_file_pattern})
+          bash echo $(find ./Notes/pages -name *.md)
       
