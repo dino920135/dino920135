@@ -13,7 +13,7 @@ echo "$PWD"
 for dir in $PWD/*md
 do 
   file_name=$(basename "$dir")
-  file_name_wospace=$($file_name | tr -s " " "%20")
+  file_name_wospace=$($file_name | tr -s "[\040*]" "%20")
   echo $file_name_wospace
   echo "[$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name_wospace)" >> ../../dino920135/README.md
 done
