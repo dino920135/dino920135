@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 ![Github Card profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dino920135&theme=github_dark)
 
-|  |  |
-|---- | ----|
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dino920135&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dino920135&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dino920135&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dino920135&theme=github_dark)
 
 <!-- anuraghazra/github-readme-stats -->
 <!-- ![Tsai Syun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dino920135&show_icons=true&theme=dark) -->
