@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Get list
-        run: bash ./GetListInRepo.sh
+        run: bash ./workflows/GetListInRepo.sh
