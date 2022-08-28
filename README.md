@@ -10,3 +10,5 @@
 # Recent Notes
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+* [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
+* [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
