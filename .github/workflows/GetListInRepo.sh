@@ -5,9 +5,6 @@ echo "$PWD"
 cd Notes/pages
 echo "$PWD"
 
-# data_path='./pages/'
-# file_pattern='*.md'
-
 ######### Remove Old Lists ##########
 
 # only delete between patterns
@@ -24,7 +21,8 @@ do
   # Fixme replace spaces with %20
   file_name_wospace=$file_name | sed -e "s/ /%20/g"
   echo $file_name_wospace
-  echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
+  sed '/^BLOG-POST-LIST:START/a \*\ [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)' ../../dino920135/README.md
+#   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
 done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
 cat ../../dino920135/README.md
