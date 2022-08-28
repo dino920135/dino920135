@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 * [TTY autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY autologin.md)
 * [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
 <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+* [TTY autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY autologin.md)
+* [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
+<!-- BLOG-POST-LIST:END -->
