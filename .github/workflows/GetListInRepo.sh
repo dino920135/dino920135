@@ -18,22 +18,13 @@ sed '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/d' ../../dino920135/README.md
 cat ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
-# for dir in $PWD/*md
-# do 
-#   file_name=$(basename "$dir")
-#   # Fixme replace spaces with %20
-#   file_name_wospace=$file_name | sed -e "s/ /%20/g"
-#   echo $file_name_wospace
-#   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
-# done
+for dir in $PWD/*md
+do 
+  file_name=$(basename "$dir")
+  # Fixme replace spaces with %20
+  file_name_wospace=$file_name | sed -e "s/ /%20/g"
+  echo $file_name_wospace
+  echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
+done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
 cat ../../dino920135/README.md
-
-# for directory in $(find ${data_path} -name ${file_pattern})
-# do
-#     # echo $directory
-#     file_dir=$(dirname "$directory")
-#     file_name=$(basename "$file_dir")
-#     echo found $file_name
-# done
-
