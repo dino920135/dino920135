@@ -20,10 +20,10 @@ for dir in $PWD/*md
 do 
   file_name=$(basename "$dir")
   # Fixme replace spaces with %20
-  file_name_wospace=$file_name | sed -e "s/ /%20/g"
-  echo $file_name_wospace
+#   file_name_wospace=$file_name | sed -e "s/ /%20/g"
+#   echo $file_name_wospace
   str='- [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)'
-  sed '/BLOG-POST-LIST:START/a test' ../../dino920135/README.md
+  sed '/BLOG-POST-LIST:START/a $str' ../../dino920135/README.md
 #   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
 done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
