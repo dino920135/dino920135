@@ -14,7 +14,7 @@ echo "$PWD"
 # include start & end pattern
 # sed '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/d' ../../dino920135/README.md 
 
-sed '/.md]/d' ../../dino920135/README.md
+sed -i '/.md]/d' ../../dino920135/README.md
 # cat ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
