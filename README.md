@@ -11,7 +11,6 @@
 
 # Recent Notes
 <!-- BLOG-POST-LIST:START -->
-- [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
 - [Github_Profile.md](https://github.com/dino920135/Notes/blob/main/pages/Github_Profile.md)
 <!-- BLOG-POST-LIST:END -->
