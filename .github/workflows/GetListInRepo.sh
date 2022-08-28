@@ -12,7 +12,7 @@ echo "$PWD"
 
 # include start & end pattern
 # sed '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/d' ../../dino920135/README.md 
-cat ../../dino920135/README.md
+# cat ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
 for dir in $PWD/*md
@@ -21,7 +21,8 @@ do
   # Fixme replace spaces with %20
   file_name_wospace=$file_name | sed -e "s/ /%20/g"
   echo $file_name_wospace
-  sed '/^BLOG-POST-LIST:START/a \*\ [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)' ../../dino920135/README.md
+  str='- [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)'
+  sed '/^BLOG-POST-LIST:START/a $str' ../../dino920135/README.md
 #   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
 done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
