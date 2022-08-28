@@ -11,6 +11,4 @@
 <!-- BLOG-POST-LIST:START -->
 - [contents.md](https://github.com/dino920135/Notes/blob/main/pages/contents.md)
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
-[$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)
-[$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)
 <!-- BLOG-POST-LIST:END -->
