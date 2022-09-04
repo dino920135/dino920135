@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme-with-notes:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest logseq notes
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
