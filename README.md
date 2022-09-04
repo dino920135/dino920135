@@ -8,6 +8,7 @@
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
 - [Logseq.md](https://github.com/dino920135/Notes/blob/main/pages/Logseq.md)
 - [Github_Profile.md](https://github.com/dino920135/Notes/blob/main/pages/Github_Profile.md)
+- [C++Error.md](https://github.com/dino920135/Notes/blob/main/pages/C++Error.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
