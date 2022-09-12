@@ -5,6 +5,7 @@
 
 # Recent Notes
 <!-- BLOG-POST-LIST:START -->
+- [vim.md](https://github.com/dino920135/Notes/blob/main/pages/vim.md)
 - [tmux.md](https://github.com/dino920135/Notes/blob/main/pages/tmux.md)
 - [crontab.md](https://github.com/dino920135/Notes/blob/main/pages/crontab.md)
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
