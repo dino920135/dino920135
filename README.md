@@ -5,6 +5,7 @@
 
 # Recent Notes
 <!-- BLOG-POST-LIST:START -->
+- [crontab.md](https://github.com/dino920135/Notes/blob/main/pages/crontab.md)
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
 - [Logseq.md](https://github.com/dino920135/Notes/blob/main/pages/Logseq.md)
 - [Github_Profile.md](https://github.com/dino920135/Notes/blob/main/pages/Github_Profile.md)
