@@ -7,9 +7,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [vim.md](https://github.com/dino920135/Notes/blob/main/pages/vim.md)
 - [tmux.md](https://github.com/dino920135/Notes/blob/main/pages/tmux.md)
+- [logseq_basics.md](https://github.com/dino920135/Notes/blob/main/pages/logseq_basics.md)
 - [crontab.md](https://github.com/dino920135/Notes/blob/main/pages/crontab.md)
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
-- [Logseq.md](https://github.com/dino920135/Notes/blob/main/pages/Logseq.md)
 - [Github_Profile.md](https://github.com/dino920135/Notes/blob/main/pages/Github_Profile.md)
 - [DOODLE.md](https://github.com/dino920135/Notes/blob/main/pages/DOODLE.md)
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
