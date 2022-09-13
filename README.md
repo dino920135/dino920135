@@ -2,8 +2,8 @@
 **dino920135/dino920135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- # About me -->
-
-# Recent Notes
+# [Contents of my Notes](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
+## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
 - [vim.md](https://github.com/dino920135/Notes/blob/main/pages/vim.md)
 - [tmux.md](https://github.com/dino920135/Notes/blob/main/pages/tmux.md)
