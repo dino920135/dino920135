@@ -10,6 +10,7 @@
 - [tmux.md](https://github.com/dino920135/Notes/blob/main/pages/tmux.md)
 - [logseq_basics.md](https://github.com/dino920135/Notes/blob/main/pages/logseq_basics.md)
 - [crontab.md](https://github.com/dino920135/Notes/blob/main/pages/crontab.md)
+- [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
 - [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
