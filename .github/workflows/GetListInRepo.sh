@@ -18,23 +18,17 @@ sed -i '/.md]/d' ../../dino920135/README.md
 # cat ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
-# counter=0
 #for dir in $(ls -t $PWD/*md | tail -n +5)
-for dir in $(git ls-files -z -- $PWD/*md | xargs -0n1 -I_ git --no-pager log -1 --date=short --format="%cd/_" -- $PWD/*md | sort | head -n 8)
+for dir in $(git log --pretty='' --name-only -- $PWD/*.md| awk '!seen[$0]++')
 do 
-  #counter=$(( counter + 1 ))
   file_name=$(basename "$dir")
   #file_name=$dir
   # Fixme replace spaces with %20
 #   file_name_wospace=$file_name | sed -e "s/ /%20/g"
 #   echo $file_name_wospace
 #   str='- [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)'
-  sed -i "/BLOG-POST-LIST:START/a - [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" ../../dino920135/README.md
+  sed -i "/BLOG-POST-LIST:END/i - [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" ../../dino920135/README.md
 #   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
-  # if [ "$counter" -gt 5 ]
-  # then 
-  #    break
-  #  fi
 done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
 cat ../../dino920135/README.md
