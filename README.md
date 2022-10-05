@@ -6,6 +6,12 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [main,](https://github.com/dino920135/Notes/blob/main/pages/main,)
+- [->](https://github.com/dino920135/Notes/blob/main/pages/->)
+- [HEAD](https://github.com/dino920135/Notes/blob/main/pages/HEAD)
+- [agoontab.md](https://github.com/dino920135/Notes/blob/main/pages/agoontab.md)
+- [hours](https://github.com/dino920135/Notes/blob/main/pages/hours)
+- [3](https://github.com/dino920135/Notes/blob/main/pages/3)
 
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
