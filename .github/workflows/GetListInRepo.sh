@@ -19,9 +19,10 @@ sed -i '/.md]/d' ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
 #for dir in $(ls -t $PWD/*md | tail -n +5)
-for dir in $(git ls-files -z -- $PWD/*md | xargs -0n1 -I_ git --no-pager log -1 --date=iso-local --format="%ad _" -- $PWD/*md | sort -5)
+for dir in $(git ls-files -z -- $PWD/*md | xargs -0n1 -I_ git --no-pager log -1 --date=iso-local --format="%ad _" -- $PWD/*md | sort)
 do 
-  file_name=$(basename "$dir")
+  #file_name=$(basename "$dir")
+  file_name=$dir
   # Fixme replace spaces with %20
 #   file_name_wospace=$file_name | sed -e "s/ /%20/g"
 #   echo $file_name_wospace
