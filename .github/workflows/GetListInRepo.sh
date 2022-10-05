@@ -19,7 +19,7 @@ sed -i '/.md]/d' ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
 #for dir in $(ls -t $PWD/*md | tail -n +5)
-for dir in $(git ls-tree -r --name-only HEAD -z | TZ=UTC xargs -0n1 -I_ git --no-pager log -1 --date=iso-local --format="%ad _" -- _ | sort | grep *.md)
+for dir in $(git ls-tree -r --name-only HEAD -z | TZ=UTC xargs -0n1 -I_ git --no-pager log -1 --date=iso-local --format="%ad _" -- *.md | sort)
 do 
   file_name=$(basename "$dir")
   # Fixme replace spaces with %20
