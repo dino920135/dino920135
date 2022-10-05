@@ -18,7 +18,7 @@ sed -i '/.md]/d' ../../dino920135/README.md
 # cat ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
-for dir in ${ls -t $PWD/*md}
+for dir in $(ls -t $PWD/*md | tail -n +5)
 do 
   file_name=$(basename "$dir")
   # Fixme replace spaces with %20
