@@ -31,7 +31,10 @@ do
 #   str='- [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)'
   sed -i "/BLOG-POST-LIST:START/a - [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" ../../dino920135/README.md
 #   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
-  [ "$counter" -gt 10 ] && break
+  if [ "$counter" = "10" ]
+  then 
+    break
+  fi
 done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
 cat ../../dino920135/README.md
