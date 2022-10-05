@@ -16,18 +16,6 @@
 - [DOODLE.md](https://github.com/dino920135/Notes/blob/main/pages/DOODLE.md)
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [C++Error.md](https://github.com/dino920135/Notes/blob/main/pages/C++Error.md)
-- [origin/main,](https://github.com/dino920135/Notes/blob/main/pages/origin/main,)
-- [main,](https://github.com/dino920135/Notes/blob/main/pages/main,)
-- [->](https://github.com/dino920135/Notes/blob/main/pages/->)
-- [HEAD](https://github.com/dino920135/Notes/blob/main/pages/HEAD)
-- [hours](https://github.com/dino920135/Notes/blob/main/pages/hours)
-- [3](https://github.com/dino920135/Notes/blob/main/pages/3)
-- [main,](https://github.com/dino920135/Notes/blob/main/pages/main,)
-- [->](https://github.com/dino920135/Notes/blob/main/pages/->)
-- [HEAD](https://github.com/dino920135/Notes/blob/main/pages/HEAD)
-- [hours](https://github.com/dino920135/Notes/blob/main/pages/hours)
-- [3](https://github.com/dino920135/Notes/blob/main/pages/3)
-
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
