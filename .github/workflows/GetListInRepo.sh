@@ -20,7 +20,7 @@ sed -i '/.md]/d' ../../dino920135/README.md
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
 # counter=0
 #for dir in $(ls -t $PWD/*md | tail -n +5)
-for dir in $(git ls-files -z -- $PWD/*md | xargs -0n1 -I_ git --no-pager log -1 --date=short --format="%cd/_" -- $PWD/*md | sort)
+for dir in $(git ls-files -z -- $PWD/*md | xargs -0n1 -I_ git --no-pager log -1 --date=short --format="%cd/_" -- $PWD/*md | sort | head -n 10)
 do 
   #counter=$(( counter + 1 ))
   file_name=$(basename "$dir")
