@@ -19,7 +19,7 @@ sed -i '/.md]/d' ../../dino920135/README.md
 
 # echo "<!-- BLOG-POST-LIST:START -->" >> ../../dino920135/README.md
 #for dir in $(ls -t $PWD/*md | tail -n +5)
-for dir in $(git log --pretty='' --name-only -- $PWD/*.md| awk '!seen[$0]++')
+for dir in $(git log --pretty='' --name-only -- $PWD/*.md| awk '!seen[$0]++' | head -n 10)
 do 
   file_name=$(basename "$dir")
   #file_name=$dir
