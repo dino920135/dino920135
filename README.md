@@ -6,9 +6,6 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [vim.md](https://github.com/dino920135/Notes/blob/main/pages/vim.md)
-- [tmux.md](https://github.com/dino920135/Notes/blob/main/pages/tmux.md)
-- [logseq_basics.md](https://github.com/dino920135/Notes/blob/main/pages/logseq_basics.md)
 - [crontab.md](https://github.com/dino920135/Notes/blob/main/pages/crontab.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
