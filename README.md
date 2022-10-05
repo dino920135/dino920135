@@ -6,9 +6,14 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [main,](https://github.com/dino920135/Notes/blob/main/pages/main,)
+- [->](https://github.com/dino920135/Notes/blob/main/pages/->)
+- [HEAD](https://github.com/dino920135/Notes/blob/main/pages/HEAD)
+- [agoontab.md](https://github.com/dino920135/Notes/blob/main/pages/agoontab.md)
+- [hours](https://github.com/dino920135/Notes/blob/main/pages/hours)
+- [3](https://github.com/dino920135/Notes/blob/main/pages/3)
 - [09:59:52](https://github.com/dino920135/Notes/blob/main/pages/09:59:52)
 - [2022-10-05](https://github.com/dino920135/Notes/blob/main/pages/2022-10-05)
-- [C++Error.md](https://github.com/dino920135/Notes/blob/main/pages/C++Error.md)
 - [+0000](https://github.com/dino920135/Notes/blob/main/pages/+0000)
 - [09:59:52](https://github.com/dino920135/Notes/blob/main/pages/09:59:52)
 - [2022-10-05](https://github.com/dino920135/Notes/blob/main/pages/2022-10-05)
