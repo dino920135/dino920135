@@ -6,9 +6,9 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [AWR1843-BOOST+DCA1000EVM_data_capture.md](https://github.com/dino920135/Notes/blob/main/pages/AWR1843-BOOST+DCA1000EVM_data_capture.md)
 - [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
+- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [ION_Notes.md](https://github.com/dino920135/Notes/blob/main/pages/ION_Notes.md)
 - [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
