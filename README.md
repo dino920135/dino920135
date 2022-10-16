@@ -6,16 +6,16 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
+- [valgrind.md](https://github.com/dino920135/Notes/blob/main/pages/valgrind.md)
+- [Crash_Course_Electronics_and_PCB_Design.md](https://github.com/dino920135/Notes/blob/main/pages/Crash_Course_Electronics_and_PCB_Design.md)
 - [AWR1843-BOOST+DCA1000EVM_data_capture.md](https://github.com/dino920135/Notes/blob/main/pages/AWR1843-BOOST+DCA1000EVM_data_capture.md)
 - [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
-- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [ION_Notes.md](https://github.com/dino920135/Notes/blob/main/pages/ION_Notes.md)
 - [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 - [logseq_basics.md](https://github.com/dino920135/Notes/blob/main/pages/logseq_basics.md)
 - [tmux.md](https://github.com/dino920135/Notes/blob/main/pages/tmux.md)
-- [vim.md](https://github.com/dino920135/Notes/blob/main/pages/vim.md)
-- [crontab.md](https://github.com/dino920135/Notes/blob/main/pages/crontab.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
