@@ -7,8 +7,8 @@
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
 - [fastled](https://github.com/dino920135/Notes/blob/main/pages/fastled)
-- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [fastled_lightstrip.md](https://github.com/dino920135/Notes/blob/main/pages/fastled_lightstrip.md)
+- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [GitLab_sent_mail_with_Gmail_SMTP.md](https://github.com/dino920135/Notes/blob/main/pages/GitLab_sent_mail_with_Gmail_SMTP.md)
 - [valgrind.md](https://github.com/dino920135/Notes/blob/main/pages/valgrind.md)
 - [Crash_Course_Electronics_and_PCB_Design.md](https://github.com/dino920135/Notes/blob/main/pages/Crash_Course_Electronics_and_PCB_Design.md)
