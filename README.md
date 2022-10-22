@@ -6,7 +6,6 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [fastled](https://github.com/dino920135/Notes/blob/main/pages/fastled)
 - [fastled_lightstrip.md](https://github.com/dino920135/Notes/blob/main/pages/fastled_lightstrip.md)
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [GitLab_sent_mail_with_Gmail_SMTP.md](https://github.com/dino920135/Notes/blob/main/pages/GitLab_sent_mail_with_Gmail_SMTP.md)
