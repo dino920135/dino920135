@@ -6,16 +6,16 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [GitLab_sent_mail_with_Gmail_SMTP.md](https://github.com/dino920135/Notes/blob/main/pages/GitLab_sent_mail_with_Gmail_SMTP.md)
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
+- [check_if_specific_process_is_running.md](https://github.com/dino920135/Notes/blob/main/pages/check_if_specific_process_is_running.md)
+- [check_if_user_is_root.md](https://github.com/dino920135/Notes/blob/main/pages/check_if_user_is_root.md)
+- [GitLab_sent_mail_with_Gmail_SMTP.md](https://github.com/dino920135/Notes/blob/main/pages/GitLab_sent_mail_with_Gmail_SMTP.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [fastled_lightstrip.md](https://github.com/dino920135/Notes/blob/main/pages/fastled_lightstrip.md)
 - [valgrind.md](https://github.com/dino920135/Notes/blob/main/pages/valgrind.md)
 - [Crash_Course_Electronics_and_PCB_Design.md](https://github.com/dino920135/Notes/blob/main/pages/Crash_Course_Electronics_and_PCB_Design.md)
 - [AWR1843-BOOST+DCA1000EVM_data_capture.md](https://github.com/dino920135/Notes/blob/main/pages/AWR1843-BOOST+DCA1000EVM_data_capture.md)
 - [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
-- [ION_Notes.md](https://github.com/dino920135/Notes/blob/main/pages/ION_Notes.md)
-- [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
