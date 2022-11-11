@@ -6,6 +6,7 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 - [ION_Notes.md](https://github.com/dino920135/Notes/blob/main/pages/ION_Notes.md)
 - [AWR1843-BOOST+DCA1000EVM_data_capture.md](https://github.com/dino920135/Notes/blob/main/pages/AWR1843-BOOST+DCA1000EVM_data_capture.md)
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
@@ -14,7 +15,6 @@
 - [Github_Profile.md](https://github.com/dino920135/Notes/blob/main/pages/Github_Profile.md)
 - [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
 - [TTY_autologin.md](https://github.com/dino920135/Notes/blob/main/pages/TTY_autologin.md)
-- [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
