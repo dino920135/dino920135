@@ -6,6 +6,7 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [ouster-lidar-os-1-128.md](https://github.com/dino920135/Notes/blob/main/pages/ouster-lidar-os-1-128.md)
 - [swift-Navigation-Piksi-Multi-Evaluation-Kit.md](https://github.com/dino920135/Notes/blob/main/pages/swift-Navigation-Piksi-Multi-Evaluation-Kit.md)
 - [Crash_Course_Electronics_and_PCB_Design.md](https://github.com/dino920135/Notes/blob/main/pages/Crash_Course_Electronics_and_PCB_Design.md)
@@ -15,7 +16,6 @@
 - [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
 - [git.md](https://github.com/dino920135/Notes/blob/main/pages/git.md)
 - [ION_Notes.md](https://github.com/dino920135/Notes/blob/main/pages/ION_Notes.md)
-- [AWR1843-BOOST+DCA1000EVM_data_capture.md](https://github.com/dino920135/Notes/blob/main/pages/AWR1843-BOOST+DCA1000EVM_data_capture.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
