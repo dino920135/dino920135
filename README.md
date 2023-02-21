@@ -6,6 +6,11 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Invention-Inertial](https://github.com/dino920135/Notes/blob/main/pages/Invention-Inertial)
+- [Navigation](https://github.com/dino920135/Notes/blob/main/pages/Navigation)
+- [Technology](https://github.com/dino920135/Notes/blob/main/pages/Technology)
+- [Trainning](https://github.com/dino920135/Notes/blob/main/pages/Trainning)
+- [Course.md](https://github.com/dino920135/Notes/blob/main/pages/Course.md)
 - [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [ouster-lidar-os-1-128.md](https://github.com/dino920135/Notes/blob/main/pages/ouster-lidar-os-1-128.md)
@@ -15,7 +20,6 @@
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
 - [git.md](https://github.com/dino920135/Notes/blob/main/pages/git.md)
-- [ION_Notes.md](https://github.com/dino920135/Notes/blob/main/pages/ION_Notes.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
