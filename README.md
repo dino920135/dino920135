@@ -74,7 +74,7 @@
 - [Navigation](https://github.com/dino920135/Notes/blob/main/pages/Navigation)
 - [Technology](https://github.com/dino920135/Notes/blob/main/pages/Technology)
 - [Trainning](https://github.com/dino920135/Notes/blob/main/pages/Trainning)
-- [Course.md](https://github.com/dino920135/Notes/blob/main/pages/Course.md)
+- [Invention-Inertial-Navigation-Technology-Trainning-Course.md](https://github.com/dino920135/Notes/blob/main/pages/Invention-Inertial-Navigation-Technology-Trainning-Course.md)
 - [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [ouster-lidar-os-1-128.md](https://github.com/dino920135/Notes/blob/main/pages/ouster-lidar-os-1-128.md)
