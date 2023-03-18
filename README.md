@@ -6,6 +6,7 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Gitlab-Server.md](https://github.com/dino920135/Notes/blob/main/pages/Gitlab-Server.md)
 - [SCRUM.md](https://github.com/dino920135/Notes/blob/main/pages/SCRUM.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [gitlab-runner.md](https://github.com/dino920135/Notes/blob/main/pages/gitlab-runner.md)
@@ -15,7 +16,6 @@
 - [swift-Navigation-Piksi-Multi-Evaluation-Kit.md](https://github.com/dino920135/Notes/blob/main/pages/swift-Navigation-Piksi-Multi-Evaluation-Kit.md)
 - [Crash_Course_Electronics_and_PCB_Design.md](https://github.com/dino920135/Notes/blob/main/pages/Crash_Course_Electronics_and_PCB_Design.md)
 - [Eigen.md](https://github.com/dino920135/Notes/blob/main/pages/Eigen.md)
-- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
