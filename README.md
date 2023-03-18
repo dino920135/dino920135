@@ -6,6 +6,7 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [SCRUM.md](https://github.com/dino920135/Notes/blob/main/pages/SCRUM.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [gitlab-runner.md](https://github.com/dino920135/Notes/blob/main/pages/gitlab-runner.md)
 - [Invention-Inertial-Navigation-Technology-Trainning-Course.md](https://github.com/dino920135/Notes/blob/main/pages/Invention-Inertial-Navigation-Technology-Trainning-Course.md)
@@ -15,7 +16,6 @@
 - [Crash_Course_Electronics_and_PCB_Design.md](https://github.com/dino920135/Notes/blob/main/pages/Crash_Course_Electronics_and_PCB_Design.md)
 - [Eigen.md](https://github.com/dino920135/Notes/blob/main/pages/Eigen.md)
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
-- [MmWave-Radar-Localization-References.md](https://github.com/dino920135/Notes/blob/main/pages/MmWave-Radar-Localization-References.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
