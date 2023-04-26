@@ -6,6 +6,7 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [InertialNav.md](https://github.com/dino920135/Notes/blob/main/pages/InertialNav.md)
 - [ColoRadar-Studied.md](https://github.com/dino920135/Notes/blob/main/pages/ColoRadar-Studied.md)
 - [ROS-with-Docker.md](https://github.com/dino920135/Notes/blob/main/pages/ROS-with-Docker.md)
 - [ROS-with-PCL.md](https://github.com/dino920135/Notes/blob/main/pages/ROS-with-PCL.md)
@@ -15,7 +16,6 @@
 - [Gitlab-Server.md](https://github.com/dino920135/Notes/blob/main/pages/Gitlab-Server.md)
 - [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 - [gitlab-runner.md](https://github.com/dino920135/Notes/blob/main/pages/gitlab-runner.md)
-- [Invention-Inertial-Navigation-Technology-Trainning-Course.md](https://github.com/dino920135/Notes/blob/main/pages/Invention-Inertial-Navigation-Technology-Trainning-Course.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
