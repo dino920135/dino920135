@@ -6,6 +6,8 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Unit-test-with-GTest.md](https://github.com/dino920135/Notes/blob/main/pages/Unit-test-with-GTest.md)
+- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [Auto-Covariance-&-Auto-Correlation-Functions.md](https://github.com/dino920135/Notes/blob/main/pages/Auto-Covariance-&-Auto-Correlation-Functions.md)
 - [InertialNav.md](https://github.com/dino920135/Notes/blob/main/pages/InertialNav.md)
 - [ColoRadar-Studied.md](https://github.com/dino920135/Notes/blob/main/pages/ColoRadar-Studied.md)
@@ -14,8 +16,6 @@
 - [VS_Code.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code.md)
 - [AWR1843-BOOST+DCA1000EVM_data_capture.md](https://github.com/dino920135/Notes/blob/main/pages/AWR1843-BOOST+DCA1000EVM_data_capture.md)
 - [SCRUM.md](https://github.com/dino920135/Notes/blob/main/pages/SCRUM.md)
-- [Gitlab-Server.md](https://github.com/dino920135/Notes/blob/main/pages/Gitlab-Server.md)
-- [VS_Code_SSH.md](https://github.com/dino920135/Notes/blob/main/pages/VS_Code_SSH.md)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
