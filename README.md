@@ -6,8 +6,8 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Lie-Group-Algebra-SO(3)-and-so(3).md](https://github.com/dino920135/Notes/blob/main/pages/Lie-Group-Algebra-SO(3)-and-so(3).md)
 - [Lie-Group.md](https://github.com/dino920135/Notes/blob/main/pages/Lie-Group.md)
+- [Lie-Group-Algebra-SO(3)-and-so(3).md](https://github.com/dino920135/Notes/blob/main/pages/Lie-Group-Algebra-SO(3)-and-so(3).md)
 - [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 - [Python-file-IO.md](https://github.com/dino920135/Notes/blob/main/pages/Python-file-IO.md)
 - [Einsum-in-Pytorch.md](https://github.com/dino920135/Notes/blob/main/pages/Einsum-in-Pytorch.md)
