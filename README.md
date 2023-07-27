@@ -3,7 +3,7 @@
 -->
 <!-- # About me -->
 # Notes
-## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
+## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
 - [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes/#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
