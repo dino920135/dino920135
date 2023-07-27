@@ -22,7 +22,8 @@ sed -i '/.md]/d' ../../dino920135/README.md
 for dir in $(git log --pretty='' --name-only -- $PWD/*.md| awk '!seen[$0]++' | head -n 10)
 do 
   file_name=$(basename "$dir")
-  page_name=(${file_name%.md})
+  page_name=${file_name%.md}
+  echo $page_name
   #file_name=$dir
   # Fixme replace spaces with %20
 #   file_name_wospace=$file_name | sed -e "s/ /%20/g"
