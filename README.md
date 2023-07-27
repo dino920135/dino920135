@@ -6,16 +6,16 @@
 ## [Contents](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Lie-Group.md](https://github.com/dino920135/Notes/blob/main/pages/Lie-Group.md)
-- [Lie-Group-Algebra-SO(3)-and-so(3).md](https://github.com/dino920135/Notes/blob/main/pages/Lie-Group-Algebra-SO(3)-and-so(3).md)
-- [Contents.md](https://github.com/dino920135/Notes/blob/main/pages/Contents.md)
-- [Python-file-IO.md](https://github.com/dino920135/Notes/blob/main/pages/Python-file-IO.md)
-- [Einsum-in-Pytorch.md](https://github.com/dino920135/Notes/blob/main/pages/Einsum-in-Pytorch.md)
-- [Novatel-Manual.md](https://github.com/dino920135/Notes/blob/main/pages/Novatel-Manual.md)
-- [Unit-test-with-GTest.md](https://github.com/dino920135/Notes/blob/main/pages/Unit-test-with-GTest.md)
-- [Auto-Covariance-&-Auto-Correlation-Functions.md](https://github.com/dino920135/Notes/blob/main/pages/Auto-Covariance-&-Auto-Correlation-Functions.md)
-- [InertialNav.md](https://github.com/dino920135/Notes/blob/main/pages/InertialNav.md)
-- [ColoRadar-Studied.md](https://github.com/dino920135/Notes/blob/main/pages/ColoRadar-Studied.md)
+- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes/#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
+- [Lie-Group-Algebra-SO(3)-and-so(3)](https://dino920135.github.io/Notes/#/page/Lie-Group-Algebra-SO(3)-and-so(3))
+- [ouster-lidar-os-1-128](https://dino920135.github.io/Notes/#/page/ouster-lidar-os-1-128)
+- [Auto-Covariance-&-Auto-Correlation-Functions](https://dino920135.github.io/Notes/#/page/Auto-Covariance-&-Auto-Correlation-Functions)
+- [Contents](https://dino920135.github.io/Notes/#/page/Contents)
+- [Crash_Course_Electronics_and_PCB_Design](https://dino920135.github.io/Notes/#/page/Crash_Course_Electronics_and_PCB_Design)
+- [DOODLE](https://dino920135.github.io/Notes/#/page/DOODLE)
+- [Einsum-in-Pytorch](https://dino920135.github.io/Notes/#/page/Einsum-in-Pytorch)
+- [GitLab_sent_mail_with_Gmail_SMTP](https://dino920135.github.io/Notes/#/page/GitLab_sent_mail_with_Gmail_SMTP)
+- [Gitlab-Server](https://dino920135.github.io/Notes/#/page/Gitlab-Server)
 <!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
