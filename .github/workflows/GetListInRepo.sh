@@ -22,12 +22,13 @@ sed -i '/.md]/d' ../../dino920135/README.md
 for dir in $(git log --pretty='' --name-only -- $PWD/*.md| awk '!seen[$0]++' | head -n 10)
 do 
   file_name=$(basename "$dir")
+  page_name=(${file_name%.md})
   #file_name=$dir
   # Fixme replace spaces with %20
 #   file_name_wospace=$file_name | sed -e "s/ /%20/g"
 #   echo $file_name_wospace
 #   str='- [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)'
-  sed -i "/BLOG-POST-LIST:END/i - [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" ../../dino920135/README.md
+  sed -i "/BLOG-POST-LIST:END/i - [$page_name](https://dino920135.github.io/Notes/#/page/$page_name)" ../../dino920135/README.md
 #   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
 done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
