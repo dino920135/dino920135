@@ -6,7 +6,6 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-
 - [git](https://dino920135.github.io/Notes/#/page/git)
 - [Contents](https://dino920135.github.io/Notes/#/page/Contents)
 - [GitLab_sent_mail_with_Gmail_SMTP](https://dino920135.github.io/Notes/#/page/GitLab_sent_mail_with_Gmail_SMTP)
