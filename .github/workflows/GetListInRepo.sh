@@ -9,7 +9,8 @@ echo "$PWD"
 ######### Remove Old Lists ##########
 
 # only delete between patterns
-sed -i '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/{/BLOG-POST-LIST:START/n;/BLOG-POST-LIST:END/!d;}' ../../dino920135/README.md 
+# sed -i '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/{/BLOG-POST-LIST:START/n;/BLOG-POST-LIST:END/!d;}' ../../dino920135/README.md 
+sed -i '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/{//!d}' ../../dino920135/README.md 
 
 # include start & end pattern
 # sed '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/d' ../../dino920135/README.md 
