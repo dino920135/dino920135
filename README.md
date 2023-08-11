@@ -17,3 +17,10 @@
 - [VS_Code](https://dino920135.github.io/Notes//#/page/VS_Code)
 - [check_if_specific_process_is_running](https://dino920135.github.io/Notes//#/page/check_if_specific_process_is_running)
 <!-- BLOG-POST-LIST:END -->
+
+Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
+
+# Summary
+![Github Card profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dino920135&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dino920135&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dino920135&theme=github_dark)
