@@ -5,6 +5,8 @@
 # Notes
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
 
 # Summary
