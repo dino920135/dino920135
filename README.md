@@ -6,6 +6,15 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Delete](https://dino920135.github.io/Notes//#/page/Delete)
+- [Lines](https://dino920135.github.io/Notes//#/page/Lines)
+- [or](https://dino920135.github.io/Notes//#/page/or)
+- [Strings](https://dino920135.github.io/Notes//#/page/Strings)
+- [Between](https://dino920135.github.io/Notes//#/page/Between)
+- [Two](https://dino920135.github.io/Notes//#/page/Two)
+- [Patterns](https://dino920135.github.io/Notes//#/page/Patterns)
+- [With](https://dino920135.github.io/Notes//#/page/With)
+- [Sed](https://dino920135.github.io/Notes//#/page/Sed)
 - [git](https://dino920135.github.io/Notes//#/page/git)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [GitLab_sent_mail_with_Gmail_SMTP](https://dino920135.github.io/Notes//#/page/GitLab_sent_mail_with_Gmail_SMTP)
@@ -15,7 +24,6 @@
 - [ROS-with-PCL](https://dino920135.github.io/Notes//#/page/ROS-with-PCL)
 - [Unit-test-with-GTest](https://dino920135.github.io/Notes//#/page/Unit-test-with-GTest)
 - [VS_Code](https://dino920135.github.io/Notes//#/page/VS_Code)
-- [check_if_specific_process_is_running](https://dino920135.github.io/Notes//#/page/check_if_specific_process_is_running)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
