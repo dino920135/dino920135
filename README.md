@@ -6,15 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Delete](https://dino920135.github.io/Notes//#/page/Delete)
-- [Lines](https://dino920135.github.io/Notes//#/page/Lines)
-- [or](https://dino920135.github.io/Notes//#/page/or)
-- [Strings](https://dino920135.github.io/Notes//#/page/Strings)
-- [Between](https://dino920135.github.io/Notes//#/page/Between)
-- [Two](https://dino920135.github.io/Notes//#/page/Two)
-- [Patterns](https://dino920135.github.io/Notes//#/page/Patterns)
-- [With](https://dino920135.github.io/Notes//#/page/With)
-- [Sed](https://dino920135.github.io/Notes//#/page/Sed)
+- [Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed](https://dino920135.github.io/Notes//#/page/Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed)
 - [git](https://dino920135.github.io/Notes//#/page/git)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [GitLab_sent_mail_with_Gmail_SMTP](https://dino920135.github.io/Notes//#/page/GitLab_sent_mail_with_Gmail_SMTP)
