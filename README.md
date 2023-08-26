@@ -23,4 +23,4 @@ Update with Github Action [see workflow](https://github.com/dino920135/dino92013
 # Summary
 ![Github Card profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dino920135&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dino920135&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dino920135&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dino920135&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dino920135&theme=github_dark)
