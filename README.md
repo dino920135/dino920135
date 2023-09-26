@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Compress-files-in-Linux-&-Unix](https://dino920135.github.io/Notes//#/page/Compress-files-in-Linux-&-Unix)
 - [Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed](https://dino920135.github.io/Notes//#/page/Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed)
 - [git](https://dino920135.github.io/Notes//#/page/git)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
@@ -15,7 +16,6 @@
 - [Python-file-IO](https://dino920135.github.io/Notes//#/page/Python-file-IO)
 - [ROS-with-PCL](https://dino920135.github.io/Notes//#/page/ROS-with-PCL)
 - [Unit-test-with-GTest](https://dino920135.github.io/Notes//#/page/Unit-test-with-GTest)
-- [VS_Code](https://dino920135.github.io/Notes//#/page/VS_Code)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
