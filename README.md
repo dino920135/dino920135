@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
 - [From-EKF-to-MSCKF](https://dino920135.github.io/Notes//#/page/From-EKF-to-MSCKF)
 - [Compress-files-in-Linux-&-Unix](https://dino920135.github.io/Notes//#/page/Compress-files-in-Linux-&-Unix)
 - [Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed](https://dino920135.github.io/Notes//#/page/Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed)
@@ -15,7 +16,6 @@
 - [Github_Profile](https://dino920135.github.io/Notes//#/page/Github_Profile)
 - [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
 - [Python-file-IO](https://dino920135.github.io/Notes//#/page/Python-file-IO)
-- [ROS-with-PCL](https://dino920135.github.io/Notes//#/page/ROS-with-PCL)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
