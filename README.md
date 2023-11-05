@@ -6,8 +6,8 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [Raspberry-Pi-ROS](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ROS)
+- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [VS-Code-SSH](https://dino920135.github.io/Notes//#/page/VS-Code-SSH)
 - [setup-zsh](https://dino920135.github.io/Notes//#/page/setup-zsh)
 - [GitLab-sent-mail-with-Gmail-SMTP](https://dino920135.github.io/Notes//#/page/GitLab-sent-mail-with-Gmail-SMTP)
