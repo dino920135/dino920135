@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [VS-Code-SSH](https://dino920135.github.io/Notes//#/page/VS-Code-SSH)
+- [setup-zsh](https://dino920135.github.io/Notes//#/page/setup-zsh)
+- [GitLab-sent-mail-with-Gmail-SMTP](https://dino920135.github.io/Notes//#/page/GitLab-sent-mail-with-Gmail-SMTP)
+- [Crash-Course-Electronics-and-PCB-Design](https://dino920135.github.io/Notes//#/page/Crash-Course-Electronics-and-PCB-Design)
+- [fastled-lightstrip](https://dino920135.github.io/Notes//#/page/fastled-lightstrip)
 - [Raspberry-Pi-ROS](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ROS)
 - [raspberry-ptp](https://dino920135.github.io/Notes//#/page/raspberry-ptp)
 - [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
 - [From-EKF-to-MSCKF](https://dino920135.github.io/Notes//#/page/From-EKF-to-MSCKF)
-- [Compress-files-in-Linux-&-Unix](https://dino920135.github.io/Notes//#/page/Compress-files-in-Linux-&-Unix)
-- [Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed](https://dino920135.github.io/Notes//#/page/Delete-Lines-or-Strings-Between-Two-Patterns-With-Sed)
-- [git](https://dino920135.github.io/Notes//#/page/git)
-- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [GitLab_sent_mail_with_Gmail_SMTP](https://dino920135.github.io/Notes//#/page/GitLab_sent_mail_with_Gmail_SMTP)
-- [Github_Profile](https://dino920135.github.io/Notes//#/page/Github_Profile)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
