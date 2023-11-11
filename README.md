@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry-Pi-ptp](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ptp)
 - [Raspberry-Pi-ROS](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ROS)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [VS-Code-SSH](https://dino920135.github.io/Notes//#/page/VS-Code-SSH)
@@ -13,7 +14,6 @@
 - [GitLab-sent-mail-with-Gmail-SMTP](https://dino920135.github.io/Notes//#/page/GitLab-sent-mail-with-Gmail-SMTP)
 - [Crash-Course-Electronics-and-PCB-Design](https://dino920135.github.io/Notes//#/page/Crash-Course-Electronics-and-PCB-Design)
 - [fastled-lightstrip](https://dino920135.github.io/Notes//#/page/fastled-lightstrip)
-- [raspberry-ptp](https://dino920135.github.io/Notes//#/page/raspberry-ptp)
 - [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
 - [From-EKF-to-MSCKF](https://dino920135.github.io/Notes//#/page/From-EKF-to-MSCKF)
 <!-- BLOG-POST-LIST:END -->
