@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
 - [Raspberry-Pi-ptp](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ptp)
 - [Raspberry-Pi-ROS](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ROS)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
@@ -15,7 +16,6 @@
 - [Crash-Course-Electronics-and-PCB-Design](https://dino920135.github.io/Notes//#/page/Crash-Course-Electronics-and-PCB-Design)
 - [fastled-lightstrip](https://dino920135.github.io/Notes//#/page/fastled-lightstrip)
 - [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
-- [From-EKF-to-MSCKF](https://dino920135.github.io/Notes//#/page/From-EKF-to-MSCKF)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
