@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [INS-Mechanization](https://dino920135.github.io/Notes//#/page/INS-Mechanization)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
 - [logseq-LaTex-Formula-OCR](https://dino920135.github.io/Notes//#/page/logseq-LaTex-Formula-OCR)
@@ -15,7 +16,6 @@
 - [Raspberry-Pi-ptp](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ptp)
 - [Raspberry-Pi-ROS](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ROS)
 - [VS-Code-SSH](https://dino920135.github.io/Notes//#/page/VS-Code-SSH)
-- [setup-zsh](https://dino920135.github.io/Notes//#/page/setup-zsh)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
