@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [INS-Mechanization](https://dino920135.github.io/Notes//#/page/INS-Mechanization)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [Inertial-Sensor-Measurement-Simulation](https://dino920135.github.io/Notes//#/page/Inertial-Sensor-Measurement-Simulation)
+- [GitLab-sent-mail-with-Gmail-SMTP](https://dino920135.github.io/Notes//#/page/GitLab-sent-mail-with-Gmail-SMTP)
+- [INS-Mechanization](https://dino920135.github.io/Notes//#/page/INS-Mechanization)
 - [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
 - [logseq-LaTex-Formula-OCR](https://dino920135.github.io/Notes//#/page/logseq-LaTex-Formula-OCR)
 - [ouster-lidar-os-1-128](https://dino920135.github.io/Notes//#/page/ouster-lidar-os-1-128)
 - [Opendrive](https://dino920135.github.io/Notes//#/page/Opendrive)
 - [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
 - [Raspberry-Pi-ptp](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ptp)
-- [Raspberry-Pi-ROS](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ROS)
-- [VS-Code-SSH](https://dino920135.github.io/Notes//#/page/VS-Code-SSH)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
