@@ -6,6 +6,8 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Garmin-GPS-18x-LVC](https://dino920135.github.io/Notes//#/page/Garmin-GPS-18x-LVC)
+- [HDL-64E-S3-Time-Synchronization](https://dino920135.github.io/Notes//#/page/HDL-64E-S3-Time-Synchronization)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [Inertial-Sensor-Measurement-Simulation](https://dino920135.github.io/Notes//#/page/Inertial-Sensor-Measurement-Simulation)
 - [GitLab-sent-mail-with-Gmail-SMTP](https://dino920135.github.io/Notes//#/page/GitLab-sent-mail-with-Gmail-SMTP)
@@ -14,8 +16,6 @@
 - [logseq-LaTex-Formula-OCR](https://dino920135.github.io/Notes//#/page/logseq-LaTex-Formula-OCR)
 - [ouster-lidar-os-1-128](https://dino920135.github.io/Notes//#/page/ouster-lidar-os-1-128)
 - [Opendrive](https://dino920135.github.io/Notes//#/page/Opendrive)
-- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
-- [Raspberry-Pi-ptp](https://dino920135.github.io/Notes//#/page/Raspberry-Pi-ptp)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
