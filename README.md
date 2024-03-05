@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [TTY_autologin](https://dino920135.github.io/Notes//#/page/TTY_autologin)
 - [Garmin-GPS-18x-LVC](https://dino920135.github.io/Notes//#/page/Garmin-GPS-18x-LVC)
 - [HDL-64E-S3-Time-Synchronization](https://dino920135.github.io/Notes//#/page/HDL-64E-S3-Time-Synchronization)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
@@ -15,7 +16,6 @@
 - [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
 - [logseq-LaTex-Formula-OCR](https://dino920135.github.io/Notes//#/page/logseq-LaTex-Formula-OCR)
 - [ouster-lidar-os-1-128](https://dino920135.github.io/Notes//#/page/ouster-lidar-os-1-128)
-- [Opendrive](https://dino920135.github.io/Notes//#/page/Opendrive)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
