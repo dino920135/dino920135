@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Septentrio-Mosaic](https://dino920135.github.io/Notes//#/page/Septentrio-Mosaic)
+- [Generate-MATLAB-Functions-from-Symbolic-Expressions](https://dino920135.github.io/Notes//#/page/Generate-MATLAB-Functions-from-Symbolic-Expressions)
+- [tmux](https://dino920135.github.io/Notes//#/page/tmux)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
+- [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
+- [Septentrio-Mosaic](https://dino920135.github.io/Notes//#/page/Septentrio-Mosaic)
 - [Mermaid-Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid-Flowchart)
 - [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
 - [RTLSDR-Blog-V3](https://dino920135.github.io/Notes//#/page/RTLSDR-Blog-V3)
 - [RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI](https://dino920135.github.io/Notes//#/page/RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI)
-- [fastled-lightstrip](https://dino920135.github.io/Notes//#/page/fastled-lightstrip)
-- [TTY_autologin](https://dino920135.github.io/Notes//#/page/TTY_autologin)
-- [Garmin-GPS-18x-LVC](https://dino920135.github.io/Notes//#/page/Garmin-GPS-18x-LVC)
-- [HDL-64E-S3-Time-Synchronization](https://dino920135.github.io/Notes//#/page/HDL-64E-S3-Time-Synchronization)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
