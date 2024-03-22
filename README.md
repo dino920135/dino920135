@@ -6,9 +6,9 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Septentrio-Mosaic](https://dino920135.github.io/Notes//#/page/Septentrio-Mosaic)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [Mermaid-Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid-Flowchart)
-- [Septentrio-Mosaic](https://dino920135.github.io/Notes//#/page/Septentrio-Mosaic)
 - [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
 - [RTLSDR-Blog-V3](https://dino920135.github.io/Notes//#/page/RTLSDR-Blog-V3)
 - [RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI](https://dino920135.github.io/Notes//#/page/RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI)
