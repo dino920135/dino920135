@@ -6,6 +6,9 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Inertial-Sensor-Measurement-Simulation](https://dino920135.github.io/Notes//#/page/Inertial-Sensor-Measurement-Simulation)
+- [RTLSDR-Blog-V3](https://dino920135.github.io/Notes//#/page/RTLSDR-Blog-V3)
+- [RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI](https://dino920135.github.io/Notes//#/page/RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI)
 - [Generate-MATLAB-Functions-from-Symbolic-Expressions](https://dino920135.github.io/Notes//#/page/Generate-MATLAB-Functions-from-Symbolic-Expressions)
 - [tmux](https://dino920135.github.io/Notes//#/page/tmux)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
@@ -13,9 +16,6 @@
 - [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
 - [Septentrio-Mosaic](https://dino920135.github.io/Notes//#/page/Septentrio-Mosaic)
 - [Mermaid-Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid-Flowchart)
-- [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
-- [RTLSDR-Blog-V3](https://dino920135.github.io/Notes//#/page/RTLSDR-Blog-V3)
-- [RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI](https://dino920135.github.io/Notes//#/page/RTLSDR-quick-start-with-GNSS-SDRLIB-and-RTKNAVI)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
