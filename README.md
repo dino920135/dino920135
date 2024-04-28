@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
 - [INS-Mechanization](https://dino920135.github.io/Notes//#/page/INS-Mechanization)
 - [Inertial-Sensor-Measurement-Simulation](https://dino920135.github.io/Notes//#/page/Inertial-Sensor-Measurement-Simulation)
 - [RTLSDR-Blog-V3](https://dino920135.github.io/Notes//#/page/RTLSDR-Blog-V3)
@@ -15,7 +16,6 @@
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
 - [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
-- [Septentrio-Mosaic](https://dino920135.github.io/Notes//#/page/Septentrio-Mosaic)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
