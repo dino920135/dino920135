@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
 - [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
 - [INS-Mechanization](https://dino920135.github.io/Notes//#/page/INS-Mechanization)
 - [Inertial-Sensor-Measurement-Simulation](https://dino920135.github.io/Notes//#/page/Inertial-Sensor-Measurement-Simulation)
@@ -14,7 +15,6 @@
 - [Generate-MATLAB-Functions-from-Symbolic-Expressions](https://dino920135.github.io/Notes//#/page/Generate-MATLAB-Functions-from-Symbolic-Expressions)
 - [tmux](https://dino920135.github.io/Notes//#/page/tmux)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
 - [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
 <!-- BLOG-POST-LIST:END -->
 
