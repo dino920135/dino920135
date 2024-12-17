@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Mermaid-Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid-Flowchart)
 - [gitlab-runner](https://dino920135.github.io/Notes//#/page/gitlab-runner)
 - [VS_Code](https://dino920135.github.io/Notes//#/page/VS_Code)
 - [Gitlab-Server](https://dino920135.github.io/Notes//#/page/Gitlab-Server)
@@ -15,7 +16,6 @@
 - [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
 - [INS-Mechanization](https://dino920135.github.io/Notes//#/page/INS-Mechanization)
 - [Inertial-Sensor-Measurement-Simulation](https://dino920135.github.io/Notes//#/page/Inertial-Sensor-Measurement-Simulation)
-- [RTLSDR-Blog-V3](https://dino920135.github.io/Notes//#/page/RTLSDR-Blog-V3)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
