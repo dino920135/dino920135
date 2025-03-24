@@ -6,6 +6,9 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [ublox](https://dino920135.github.io/Notes//#/page/ublox)
+- [Receiver](https://dino920135.github.io/Notes//#/page/Receiver)
+- [Message](https://dino920135.github.io/Notes//#/page/Message)
 - [Mermaid-Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid-Flowchart)
 - [gitlab-runner](https://dino920135.github.io/Notes//#/page/gitlab-runner)
 - [VS_Code](https://dino920135.github.io/Notes//#/page/VS_Code)
@@ -15,7 +18,6 @@
 - [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
 - [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
 - [INS-Mechanization](https://dino920135.github.io/Notes//#/page/INS-Mechanization)
-- [Inertial-Sensor-Measurement-Simulation](https://dino920135.github.io/Notes//#/page/Inertial-Sensor-Measurement-Simulation)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
