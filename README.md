@@ -6,15 +6,15 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
 - [ublox](https://dino920135.github.io/Notes//#/page/ublox)
 - [Receiver](https://dino920135.github.io/Notes//#/page/Receiver)
 - [Message](https://dino920135.github.io/Notes//#/page/Message)
+- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
 - [Mermaid-Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid-Flowchart)
 - [gitlab-runner](https://dino920135.github.io/Notes//#/page/gitlab-runner)
 - [VS_Code](https://dino920135.github.io/Notes//#/page/VS_Code)
 - [Gitlab-Server](https://dino920135.github.io/Notes//#/page/Gitlab-Server)
-- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [Introduction-to-Estimation-Summer-Course](https://dino920135.github.io/Notes//#/page/Introduction-to-Estimation-Summer-Course)
 - [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
 - [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
