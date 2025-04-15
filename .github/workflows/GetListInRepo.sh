@@ -26,11 +26,14 @@ do
   page_name=${file_name%.md}
   echo $page_name
   #file_name=$dir
-  # Fixme replace spaces with %20
+  
+  # Replace spaces with %20 in the page name
+  page_name_encoded=$(echo "$page_name" | sed 's/ /%20/g')
+  
 #   file_name_wospace=$file_name | sed -e "s/ /%20/g"
 #   echo $file_name_wospace
 #   str='- [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)'
-  sed -i "/BLOG-POST-LIST:END/i - [$page_name](https://dino920135.github.io/Notes//#/page/$page_name)" ../../dino920135/README.md
+  sed -i "/BLOG-POST-LIST:END/i - [$page_name](https://dino920135.github.io/Notes//#/page/$page_name_encoded)" ../../dino920135/README.md
 #   echo "* [$file_name](https://github.com/dino920135/Notes/blob/main/pages/$file_name)" >> ../../dino920135/README.md
 done
 # echo "<!-- BLOG-POST-LIST:END -->" >> ../../dino920135/README.md
