@@ -6,15 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
-- [Auto-Covariance-&-Auto-Correlation-Functions](https://dino920135.github.io/Notes//#/page/Auto-Covariance-&-Auto-Correlation-Functions)
-- [C++Error](https://dino920135.github.io/Notes//#/page/C++Error)
-- [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
-- [Compress-files-in-Linux-&-Unix](https://dino920135.github.io/Notes//#/page/Compress-files-in-Linux-&-Unix)
+- [ublox Receiver Message](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Message)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [Crash-Course-Electronics-and-PCB-Design](https://dino920135.github.io/Notes//#/page/Crash-Course-Electronics-and-PCB-Design)
-- [Crash_Course_Electronics_and_PCB_Design](https://dino920135.github.io/Notes//#/page/Crash_Course_Electronics_and_PCB_Design)
-- [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
+- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
+- [Mermaid-Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid-Flowchart)
+- [gitlab-runner](https://dino920135.github.io/Notes//#/page/gitlab-runner)
+- [VS_Code](https://dino920135.github.io/Notes//#/page/VS_Code)
+- [Gitlab-Server](https://dino920135.github.io/Notes//#/page/Gitlab-Server)
+- [Introduction-to-Estimation-Summer-Course](https://dino920135.github.io/Notes//#/page/Introduction-to-Estimation-Summer-Course)
+- [Novatel-Manual](https://dino920135.github.io/Notes//#/page/Novatel-Manual)
+- [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
