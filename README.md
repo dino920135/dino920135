@@ -6,18 +6,15 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [vim](https://dino920135.github.io/Notes//#/page/vim)
-- [valgrind](https://dino920135.github.io/Notes//#/page/valgrind)
-- [ublox](https://dino920135.github.io/Notes//#/page/ublox)
-- [Receiver](https://dino920135.github.io/Notes//#/page/Receiver)
-- [Message](https://dino920135.github.io/Notes//#/page/Message)
-- [tmux](https://dino920135.github.io/Notes//#/page/tmux)
-- [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
-- [swift-Navigation-Piksi-Multi-Evaluation-Kit](https://dino920135.github.io/Notes//#/page/swift-Navigation-Piksi-Multi-Evaluation-Kit)
-- [setup-zsh](https://dino920135.github.io/Notes//#/page/setup-zsh)
-- [ouster-lidar-os-1-128](https://dino920135.github.io/Notes//#/page/ouster-lidar-os-1-128)
-- [logseq-basics](https://dino920135.github.io/Notes//#/page/logseq-basics)
-- [logseq-LaTex-Formula-OCR](https://dino920135.github.io/Notes//#/page/logseq-LaTex-Formula-OCR)
+- [AWR1843-BOOST+DCA1000EVM_data_capture](https://dino920135.github.io/Notes//#/page/AWR1843-BOOST+DCA1000EVM_data_capture)
+- [Auto-Covariance-&-Auto-Correlation-Functions](https://dino920135.github.io/Notes//#/page/Auto-Covariance-&-Auto-Correlation-Functions)
+- [C++Error](https://dino920135.github.io/Notes//#/page/C++Error)
+- [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
+- [Compress-files-in-Linux-&-Unix](https://dino920135.github.io/Notes//#/page/Compress-files-in-Linux-&-Unix)
+- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [Crash-Course-Electronics-and-PCB-Design](https://dino920135.github.io/Notes//#/page/Crash-Course-Electronics-and-PCB-Design)
+- [Crash_Course_Electronics_and_PCB_Design](https://dino920135.github.io/Notes//#/page/Crash_Course_Electronics_and_PCB_Design)
+- [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
