@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [control comport access with udevadm](https://dino920135.github.io/Notes//#/page/control%20comport%20access%20with%20udevadm)
 - [Septentrio Receiver Messages](https://dino920135.github.io/Notes//#/page/Septentrio%20Receiver%20Messages)
 - [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
 - [Delete Lines or Strings Between Two Patterns With Sed](https://dino920135.github.io/Notes//#/page/Delete%20Lines%20or%20Strings%20Between%20Two%20Patterns%20With%20Sed)
@@ -15,7 +16,6 @@
 - [logseq basics](https://dino920135.github.io/Notes//#/page/logseq%20basics)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [AWR1843 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR1843%20BOOST+DCA1000EVM%20data%20capture)
-- [Auto Covariance & Auto Correlation Functions](https://dino920135.github.io/Notes//#/page/Auto%20Covariance%20&%20Auto%20Correlation%20Functions)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
