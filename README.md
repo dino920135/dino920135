@@ -6,6 +6,8 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [SSH Setup](https://dino920135.github.io/Notes//#/page/SSH%20Setup)
+- [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
 - [RTKLIB Septentrio SBF message support](https://dino920135.github.io/Notes//#/page/RTKLIB%20Septentrio%20SBF%20message%20support)
 - [Septentrio Receiver Messages](https://dino920135.github.io/Notes//#/page/Septentrio%20Receiver%20Messages)
 - [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
@@ -14,8 +16,6 @@
 - [HDL-64E S3 Time Synchronization](https://dino920135.github.io/Notes//#/page/HDL-64E%20S3%20Time%20Synchronization)
 - [Inertial Sensor Measurement Simulation](https://dino920135.github.io/Notes//#/page/Inertial%20Sensor%20Measurement%20Simulation)
 - [Raspberry Pi ptp](https://dino920135.github.io/Notes//#/page/Raspberry%20Pi%20ptp)
-- [logseq basics](https://dino920135.github.io/Notes//#/page/logseq%20basics)
-- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
