@@ -6,8 +6,8 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [APT Sources File Troubleshooting](https://dino920135.github.io/Notes//#/page/APT%20Sources%20File%20Troubleshooting)
 - [Auto mount SD Card on boot](https://dino920135.github.io/Notes//#/page/Auto%20mount%20SD%20Card%20on%20boot)
+- [APT Sources File Troubleshooting](https://dino920135.github.io/Notes//#/page/APT%20Sources%20File%20Troubleshooting)
 - [Mounting SD Card on NXP i.MX8 Ubuntu System](https://dino920135.github.io/Notes//#/page/Mounting%20SD%20Card%20on%20NXP%20i.MX8%20Ubuntu%20System)
 - [SSH Setup](https://dino920135.github.io/Notes//#/page/SSH%20Setup)
 - [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
