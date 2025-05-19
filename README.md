@@ -6,8 +6,8 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Mounting SD Card on NXP i.MX8 Ubuntu System](https://dino920135.github.io/Notes//#/page/Mounting%20SD%20Card%20on%20NXP%20i.MX8%20Ubuntu%20System)
 - [Set Ubuntu Comport Permission at boot](https://dino920135.github.io/Notes//#/page/Set%20Ubuntu%20Comport%20Permission%20at%20boot)
+- [Mounting SD Card on NXP i.MX8 Ubuntu System](https://dino920135.github.io/Notes//#/page/Mounting%20SD%20Card%20on%20NXP%20i.MX8%20Ubuntu%20System)
 - [Auto mount SD Card on boot](https://dino920135.github.io/Notes//#/page/Auto%20mount%20SD%20Card%20on%20boot)
 - [APT Sources File Troubleshooting](https://dino920135.github.io/Notes//#/page/APT%20Sources%20File%20Troubleshooting)
 - [SSH Setup](https://dino920135.github.io/Notes//#/page/SSH%20Setup)
