@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
 - [Set Ubuntu Comport Permission at boot](https://dino920135.github.io/Notes//#/page/Set%20Ubuntu%20Comport%20Permission%20at%20boot)
 - [Mounting SD Card on NXP i.MX8 Ubuntu System](https://dino920135.github.io/Notes//#/page/Mounting%20SD%20Card%20on%20NXP%20i.MX8%20Ubuntu%20System)
 - [Auto mount SD Card on boot](https://dino920135.github.io/Notes//#/page/Auto%20mount%20SD%20Card%20on%20boot)
@@ -14,7 +15,6 @@
 - [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
 - [RTKLIB Septentrio SBF message support](https://dino920135.github.io/Notes//#/page/RTKLIB%20Septentrio%20SBF%20message%20support)
 - [Septentrio Receiver Messages](https://dino920135.github.io/Notes//#/page/Septentrio%20Receiver%20Messages)
-- [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
 - [control comport access with udevadm](https://dino920135.github.io/Notes//#/page/control%20comport%20access%20with%20udevadm)
 <!-- BLOG-POST-LIST:END -->
 
