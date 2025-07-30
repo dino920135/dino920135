@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Invariant Kalman Filtering (Paper walk through)](https://dino920135.github.io/Notes//#/page/Invariant%20Kalman%20Filtering%20(Paper%20walk%20through))
 - [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
 - [Set Ubuntu Comport Permission at boot](https://dino920135.github.io/Notes//#/page/Set%20Ubuntu%20Comport%20Permission%20at%20boot)
 - [Mounting SD Card on NXP i.MX8 Ubuntu System](https://dino920135.github.io/Notes//#/page/Mounting%20SD%20Card%20on%20NXP%20i.MX8%20Ubuntu%20System)
@@ -15,7 +16,6 @@
 - [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
 - [RTKLIB Septentrio SBF message support](https://dino920135.github.io/Notes//#/page/RTKLIB%20Septentrio%20SBF%20message%20support)
 - [Septentrio Receiver Messages](https://dino920135.github.io/Notes//#/page/Septentrio%20Receiver%20Messages)
-- [control comport access with udevadm](https://dino920135.github.io/Notes//#/page/control%20comport%20access%20with%20udevadm)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
