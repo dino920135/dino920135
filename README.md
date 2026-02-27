@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [Changing Grub Boot Order](https://dino920135.github.io/Notes//#/page/Changing%20Grub%20Boot%20Order)
 - [Matlab imuSensor unit convert](https://dino920135.github.io/Notes//#/page/Matlab%20imuSensor%20unit%20convert)
 - [SCRUM](https://dino920135.github.io/Notes//#/page/SCRUM)
@@ -15,7 +16,6 @@
 - [SSH Setup](https://dino920135.github.io/Notes//#/page/SSH%20Setup)
 - [Invariant Kalman Filtering (Paper walk through)](https://dino920135.github.io/Notes//#/page/Invariant%20Kalman%20Filtering%20(Paper%20walk%20through))
 - [Set Ubuntu Comport Permission at boot](https://dino920135.github.io/Notes//#/page/Set%20Ubuntu%20Comport%20Permission%20at%20boot)
-- [Mounting SD Card on NXP i.MX8 Ubuntu System](https://dino920135.github.io/Notes//#/page/Mounting%20SD%20Card%20on%20NXP%20i.MX8%20Ubuntu%20System)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
