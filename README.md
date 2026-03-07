@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [INS Mechanization](https://dino920135.github.io/Notes//#/page/INS%20Mechanization)
 - [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
 - [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [Changing Grub Boot Order](https://dino920135.github.io/Notes//#/page/Changing%20Grub%20Boot%20Order)
@@ -15,7 +16,6 @@
 - [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
 - [GNSS PPS & RTC Time Synchronization](https://dino920135.github.io/Notes//#/page/GNSS%20PPS%20&%20RTC%20Time%20Synchronization)
 - [SSH Setup](https://dino920135.github.io/Notes//#/page/SSH%20Setup)
-- [Invariant Kalman Filtering (Paper walk through)](https://dino920135.github.io/Notes//#/page/Invariant%20Kalman%20Filtering%20(Paper%20walk%20through))
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
