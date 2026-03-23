@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [mount network drive on wsl](https://dino920135.github.io/Notes//#/page/mount%20network%20drive%20on%20wsl)
 - [INS Mechanization](https://dino920135.github.io/Notes//#/page/INS%20Mechanization)
 - [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
 - [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
@@ -15,7 +16,6 @@
 - [MCU PPS Test](https://dino920135.github.io/Notes//#/page/MCU%20PPS%20Test)
 - [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
 - [GNSS PPS & RTC Time Synchronization](https://dino920135.github.io/Notes//#/page/GNSS%20PPS%20&%20RTC%20Time%20Synchronization)
-- [SSH Setup](https://dino920135.github.io/Notes//#/page/SSH%20Setup)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
