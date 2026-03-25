@@ -6,10 +6,10 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [mount network drive on wsl](https://dino920135.github.io/Notes//#/page/mount%20network%20drive%20on%20wsl)
 - [INS Mechanization](https://dino920135.github.io/Notes//#/page/INS%20Mechanization)
 - [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
-- [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [Changing Grub Boot Order](https://dino920135.github.io/Notes//#/page/Changing%20Grub%20Boot%20Order)
 - [Matlab imuSensor unit convert](https://dino920135.github.io/Notes//#/page/Matlab%20imuSensor%20unit%20convert)
 - [SCRUM](https://dino920135.github.io/Notes//#/page/SCRUM)
