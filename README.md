@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
 - [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
+- [HDL-64E S3 Time Synchronization](https://dino920135.github.io/Notes//#/page/HDL-64E%20S3%20Time%20Synchronization)
+- [TTL](https://dino920135.github.io/Notes//#/page/TTL)
+- [node.js](https://dino920135.github.io/Notes//#/page/node.js)
+- [ouster lidar os-1-128](https://dino920135.github.io/Notes//#/page/ouster%20lidar%20os-1-128)
+- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [logseq basics](https://dino920135.github.io/Notes//#/page/logseq%20basics)
 - [INS Mechanization](https://dino920135.github.io/Notes//#/page/INS%20Mechanization)
 - [vim](https://dino920135.github.io/Notes//#/page/vim)
 - [mount network drive on wsl](https://dino920135.github.io/Notes//#/page/mount%20network%20drive%20on%20wsl)
-- [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
-- [Changing Grub Boot Order](https://dino920135.github.io/Notes//#/page/Changing%20Grub%20Boot%20Order)
-- [Matlab imuSensor unit convert](https://dino920135.github.io/Notes//#/page/Matlab%20imuSensor%20unit%20convert)
-- [SCRUM](https://dino920135.github.io/Notes//#/page/SCRUM)
-- [MCU PPS Test](https://dino920135.github.io/Notes//#/page/MCU%20PPS%20Test)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
