@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [@Millimeter Wave FMCW RADARs for perception, recognition and localization in automotive applications%3A A survey](https://dino920135.github.io/Notes//#/page/@Millimeter%20Wave%20FMCW%20RADARs%20for%20perception,%20recognition%20and%20localization%20in%20automotive%20applications%3A%20A%20survey)
+- [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [GNSS Receivers](https://dino920135.github.io/Notes//#/page/GNSS%20Receivers)
 - [MmWave Radar Localization References](https://dino920135.github.io/Notes//#/page/MmWave%20Radar%20Localization%20References)
-- [logseq basics](https://dino920135.github.io/Notes//#/page/logseq%20basics)
-- [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
-- [RS232](https://dino920135.github.io/Notes//#/page/RS232)
-- [TTL](https://dino920135.github.io/Notes//#/page/TTL)
-- [ouster lidar os-1-128](https://dino920135.github.io/Notes//#/page/ouster%20lidar%20os-1-128)
+- [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
+- [Radar](https://dino920135.github.io/Notes//#/page/Radar)
+- [Septentrio Receiver Messages](https://dino920135.github.io/Notes//#/page/Septentrio%20Receiver%20Messages)
+- [VS Code](https://dino920135.github.io/Notes//#/page/VS%20Code)
+- [ublox Receiver Messages](https://dino920135.github.io/Notes//#/page/ublox%20Receiver%20Messages)
 - [LaTex writing with VS Code](https://dino920135.github.io/Notes//#/page/LaTex%20writing%20with%20VS%20Code)
-- [Reference Management Software](https://dino920135.github.io/Notes//#/page/Reference%20Management%20Software)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
