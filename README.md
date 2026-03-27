@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [AWR1843 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR1843%20BOOST+DCA1000EVM%20data%20capture)
+- [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [Unit test with GTest](https://dino920135.github.io/Notes//#/page/Unit%20test%20with%20GTest)
-- [342214250357270217Coding.md"](https://dino920135.github.io/Notes//#/page/⌨️Coding.md")
-- [INS](https://dino920135.github.io/Notes//#/page/INS)
+- [INS Mechanization](https://dino920135.github.io/Notes//#/page/INS%20Mechanization)
 - [InertialNav](https://dino920135.github.io/Notes//#/page/InertialNav)
-- [LaTex writing with VS Code](https://dino920135.github.io/Notes//#/page/LaTex%20writing%20with%20VS%20Code)
-- [VS Code Basics](https://dino920135.github.io/Notes//#/page/VS%20Code%20Basics)
-- [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
-- [VS Code](https://dino920135.github.io/Notes//#/page/VS%20Code)
-- [accelerometer](https://dino920135.github.io/Notes//#/page/accelerometer)
+- [MmWave Radar Localization References](https://dino920135.github.io/Notes//#/page/MmWave%20Radar%20Localization%20References)
+- [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
+- [360237223241Radar.md"](https://dino920135.github.io/Notes//#/page/📡Radar.md")
+- [360237233260357270217GNSS Receivers.md"](https://dino920135.github.io/Notes//#/page/🛰️GNSS%20Receivers.md")
+- [360237247255INS.md"](https://dino920135.github.io/Notes//#/page/🧭INS.md")
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
