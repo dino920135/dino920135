@@ -7,6 +7,8 @@
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [Unit test with GTest](https://dino920135.github.io/Notes//#/page/Unit%20test%20with%20GTest)
+- [342214250357270217Coding.md"](https://dino920135.github.io/Notes//#/page/⌨️Coding.md")
 - [INS](https://dino920135.github.io/Notes//#/page/INS)
 - [InertialNav](https://dino920135.github.io/Notes//#/page/InertialNav)
 - [LaTex writing with VS Code](https://dino920135.github.io/Notes//#/page/LaTex%20writing%20with%20VS%20Code)
@@ -14,8 +16,6 @@
 - [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
 - [VS Code](https://dino920135.github.io/Notes//#/page/VS%20Code)
 - [accelerometer](https://dino920135.github.io/Notes//#/page/accelerometer)
-- [Changing Grub Boot Order](https://dino920135.github.io/Notes//#/page/Changing%20Grub%20Boot%20Order)
-- [GNSS Receivers](https://dino920135.github.io/Notes//#/page/GNSS%20Receivers)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
