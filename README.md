@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Dev%2FGTest](https://dino920135.github.io/Notes//#/page/Dev%2FGTest)
-- [Dev%2FUnit Test](https://dino920135.github.io/Notes//#/page/Dev%2FUnit%20Test)
-- [Dev%2FGit](https://dino920135.github.io/Notes//#/page/Dev%2FGit)
-- [Dev%2FTmux](https://dino920135.github.io/Notes//#/page/Dev%2FTmux)
-- [LaTex writing with VS Code](https://dino920135.github.io/Notes//#/page/LaTex%20writing%20with%20VS%20Code)
-- [VS Code Basics](https://dino920135.github.io/Notes//#/page/VS%20Code%20Basics)
-- [Logseq Organizing TAGs with Namespace and Alias](https://dino920135.github.io/Notes//#/page/Logseq%20Organizing%20TAGs%20with%20Namespace%20and%20Alias)
-- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [Logseq](https://dino920135.github.io/Notes//#/page/Logseq)
-- [Coding](https://dino920135.github.io/Notes//#/page/Coding)
+- [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
+- [Matlab Radar Toolbox Examples](https://dino920135.github.io/Notes//#/page/Matlab%20Radar%20Toolbox%20Examples)
+- [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
+- [FMCW Radar Raw ADC Processing](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Raw%20ADC%20Processing)
+- [Radar](https://dino920135.github.io/Notes//#/page/Radar)
+- [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
+- [C++Error](https://dino920135.github.io/Notes//#/page/C++Error)
+- [Changing Grub Boot Order](https://dino920135.github.io/Notes//#/page/Changing%20Grub%20Boot%20Order)
+- [Code%2FPython](https://dino920135.github.io/Notes//#/page/Code%2FPython)
+- [Compress files in Linux & Unix](https://dino920135.github.io/Notes//#/page/Compress%20files%20in%20Linux%20&%20Unix)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
