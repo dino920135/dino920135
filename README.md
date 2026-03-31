@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
 - [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
 - [AWR1843 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR1843%20BOOST+DCA1000EVM%20data%20capture)
 - [GitLab sent mail with Gmail SMTP](https://dino920135.github.io/Notes//#/page/GitLab%20sent%20mail%20with%20Gmail%20SMTP)
@@ -15,7 +16,6 @@
 - [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
 - [Matlab Radar Toolbox Examples](https://dino920135.github.io/Notes//#/page/Matlab%20Radar%20Toolbox%20Examples)
 - [FMCW Radar Raw ADC Processing](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Raw%20ADC%20Processing)
-- [Radar](https://dino920135.github.io/Notes//#/page/Radar)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
