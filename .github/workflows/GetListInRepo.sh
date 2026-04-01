@@ -36,7 +36,7 @@ do
   #file_name=$dir
   
   # Replace any spaces in the page name with '%20' for proper URL encoding
-  page_name_encoded=$(echo "$page_name" | sed 's/ /%20/g' -e 's/\//%2F/g')
+  page_name_encoded=$(echo "$page_name" | sed 's/ /%20/g' -e 's/%2F/\//g')
   
   # Append a new list item to the README.md file under the 'BLOG-POST-LIST:END' marker
   # The link format is markdown style: - [page_name](URL)
