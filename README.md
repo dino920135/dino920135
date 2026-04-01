@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Wrist Disease for using Mouse & Keyboard](https://dino920135.github.io/Notes//#/page/Wrist%20Disease%20for%20using%20Mouse%20&%20Keyboard)
 - [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
 - [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
 - [AWR1843 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR1843%20BOOST+DCA1000EVM%20data%20capture)
@@ -15,7 +16,6 @@
 - [Tightly-Coupled Radar-Visual-Inertial Odometry - Paper with Code](https://dino920135.github.io/Notes//#/page/Tightly-Coupled%20Radar-Visual-Inertial%20Odometry%20-%20Paper%20with%20Code)
 - [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
 - [Matlab Radar Toolbox Examples](https://dino920135.github.io/Notes//#/page/Matlab%20Radar%20Toolbox%20Examples)
-- [FMCW Radar Raw ADC Processing](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Raw%20ADC%20Processing)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
