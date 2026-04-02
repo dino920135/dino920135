@@ -6,11 +6,11 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [neovim](https://dino920135.github.io/Notes//#/page/neovim)
 - [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
 - [Ti/DCA1000EVM](https://dino920135.github.io/Notes//#/page/Ti%2FDCA1000EVM)
 - [Ti/mmWave/AWR1843 BOOST](https://dino920135.github.io/Notes//#/page/Ti%2FmmWave%2FAWR1843%20BOOST)
 - [Ti/mmWave/AWR2243 BOOST](https://dino920135.github.io/Notes//#/page/Ti%2FmmWave%2FAWR2243%20BOOST)
-- [neovim](https://dino920135.github.io/Notes//#/page/neovim)
 - [Wrist Disease for using Mouse & Keyboard](https://dino920135.github.io/Notes//#/page/Wrist%20Disease%20for%20using%20Mouse%20&%20Keyboard)
 - [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
 - [AWR1843 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR1843%20BOOST+DCA1000EVM%20data%20capture)
