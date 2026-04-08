@@ -6,6 +6,8 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [FMCW Radar Chirp Design](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Chirp%20Design)
+- [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [Running Gemma4 with Ollama on TrueNas](https://dino920135.github.io/Notes//#/page/Running%20Gemma4%20with%20Ollama%20on%20TrueNas)
 - [@Limits to the consistency of EKF-based SLAM](https://dino920135.github.io/Notes//#/page/@Limits%20to%20the%20consistency%20of%20EKF-based%20SLAM)
 - [@Tightly-Coupled Radar-Visual-Inertial Odometry](https://dino920135.github.io/Notes//#/page/@Tightly-Coupled%20Radar-Visual-Inertial%20Odometry)
@@ -14,8 +16,6 @@
 - [neovim](https://dino920135.github.io/Notes//#/page/neovim)
 - [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
 - [Ti/DCA1000EVM](https://dino920135.github.io/Notes//#/page/Ti%2FDCA1000EVM)
-- [Ti/mmWave/AWR1843 BOOST](https://dino920135.github.io/Notes//#/page/Ti%2FmmWave%2FAWR1843%20BOOST)
-- [Ti/mmWave/AWR2243 BOOST](https://dino920135.github.io/Notes//#/page/Ti%2FmmWave%2FAWR2243%20BOOST)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
