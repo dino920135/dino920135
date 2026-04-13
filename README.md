@@ -6,10 +6,10 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [FMCW Radar Chirp Design](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Chirp%20Design)
 - [@Limits to the consistency of EKF-based SLAM](https://dino920135.github.io/Notes//#/page/@Limits%20to%20the%20consistency%20of%20EKF-based%20SLAM)
 - [@Tightly-Coupled Radar-Visual-Inertial Odometry](https://dino920135.github.io/Notes//#/page/@Tightly-Coupled%20Radar-Visual-Inertial%20Odometry)
 - [FastLED Lightstrip](https://dino920135.github.io/Notes//#/page/FastLED%20Lightstrip)
-- [FMCW Radar Chirp Design](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Chirp%20Design)
 - [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [Running Gemma4 with Ollama on TrueNas](https://dino920135.github.io/Notes//#/page/Running%20Gemma4%20with%20Ollama%20on%20TrueNas)
 - [EKF Consistency](https://dino920135.github.io/Notes//#/page/EKF%20Consistency)
