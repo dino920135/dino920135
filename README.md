@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [gtsam](https://dino920135.github.io/Notes//#/page/gtsam)
 - [Diagram/Gantt](https://dino920135.github.io/Notes//#/page/Diagram%2FGantt)
 - [Mermaid Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid%20Flowchart)
 - [@Tightly-Coupled Radar-Visual-Inertial Odometry](https://dino920135.github.io/Notes//#/page/@Tightly-Coupled%20Radar-Visual-Inertial%20Odometry)
@@ -15,7 +16,6 @@
 - [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
 - [@Limits to the consistency of EKF-based SLAM](https://dino920135.github.io/Notes//#/page/@Limits%20to%20the%20consistency%20of%20EKF-based%20SLAM)
 - [Introduction to Estimation Summer Course](https://dino920135.github.io/Notes//#/page/Introduction%20to%20Estimation%20Summer%20Course)
-- [@Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/@Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
