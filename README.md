@@ -6,6 +6,9 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
+- [netplan](https://dino920135.github.io/Notes//#/page/netplan)
+- [Map Custom Port Name to Physical Port](https://dino920135.github.io/Notes//#/page/Map%20Custom%20Port%20Name%20to%20Physical%20Port)
 - [gtsam](https://dino920135.github.io/Notes//#/page/gtsam)
 - [Diagram/Gantt](https://dino920135.github.io/Notes//#/page/Diagram%2FGantt)
 - [Mermaid Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid%20Flowchart)
@@ -13,9 +16,6 @@
 - [Auto Covariance & Auto Correlation Functions](https://dino920135.github.io/Notes//#/page/Auto%20Covariance%20&%20Auto%20Correlation%20Functions)
 - [ION_Notes](https://dino920135.github.io/Notes//#/page/ION_Notes)
 - [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
-- [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
-- [@Limits to the consistency of EKF-based SLAM](https://dino920135.github.io/Notes//#/page/@Limits%20to%20the%20consistency%20of%20EKF-based%20SLAM)
-- [Introduction to Estimation Summer Course](https://dino920135.github.io/Notes//#/page/Introduction%20to%20Estimation%20Summer%20Course)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
