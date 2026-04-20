@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Running Gemma4 with Ollama on TrueNas](https://dino920135.github.io/Notes//#/page/Running%20Gemma4%20with%20Ollama%20on%20TrueNas)
 - [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
 - [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
 - [netplan](https://dino920135.github.io/Notes//#/page/netplan)
@@ -15,7 +16,6 @@
 - [Mermaid Flowchart](https://dino920135.github.io/Notes//#/page/Mermaid%20Flowchart)
 - [@Tightly-Coupled Radar-Visual-Inertial Odometry](https://dino920135.github.io/Notes//#/page/@Tightly-Coupled%20Radar-Visual-Inertial%20Odometry)
 - [Auto Covariance & Auto Correlation Functions](https://dino920135.github.io/Notes//#/page/Auto%20Covariance%20&%20Auto%20Correlation%20Functions)
-- [ION_Notes](https://dino920135.github.io/Notes//#/page/ION_Notes)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
