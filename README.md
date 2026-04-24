@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
 - [Mount SMB Network Drive on Ubuntu with Full Speed](https://dino920135.github.io/Notes//#/page/Mount%20SMB%20Network%20Drive%20on%20Ubuntu%20with%20Full%20Speed)
 - [mount network drive on wsl](https://dino920135.github.io/Notes//#/page/mount%20network%20drive%20on%20wsl)
 - [AWR1843 BOOST SYNC_IN Trigger](https://dino920135.github.io/Notes//#/page/AWR1843%20BOOST%20SYNC_IN%20Trigger)
@@ -15,7 +16,6 @@
 - [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
 - [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
 - [netplan](https://dino920135.github.io/Notes//#/page/netplan)
-- [Map Custom Port Name to Physical Port](https://dino920135.github.io/Notes//#/page/Map%20Custom%20Port%20Name%20to%20Physical%20Port)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
