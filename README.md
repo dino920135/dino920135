@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [@Papers](https://dino920135.github.io/Notes//#/page/@Papers)
-- [Coding](https://dino920135.github.io/Notes//#/page/Coding)
+- [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
+- [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
+- [FMCW Radar Chirp Design](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Chirp%20Design)
+- [Matlab Radar Toolbox Examples](https://dino920135.github.io/Notes//#/page/Matlab%20Radar%20Toolbox%20Examples)
+- [MmWave Radar Localization References](https://dino920135.github.io/Notes//#/page/MmWave%20Radar%20Localization%20References)
+- [mmWave Radar Radome Design](https://dino920135.github.io/Notes//#/page/mmWave%20Radar%20Radome%20Design)
+- [mmwave](https://dino920135.github.io/Notes//#/page/mmwave)
+- [ti-mmwave-ros-pkg](https://dino920135.github.io/Notes//#/page/ti-mmwave-ros-pkg)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [GNSS Receivers](https://dino920135.github.io/Notes//#/page/GNSS%20Receivers)
 - [Hardware & Embedded](https://dino920135.github.io/Notes//#/page/Hardware%20&%20Embedded)
-- [INS](https://dino920135.github.io/Notes//#/page/INS)
-- [Personal/Health](https://dino920135.github.io/Notes//#/page/Personal%2FHealth)
-- [Radar](https://dino920135.github.io/Notes//#/page/Radar)
-- [SLAM & Estimation](https://dino920135.github.io/Notes//#/page/SLAM%20&%20Estimation)
-- [Work Management](https://dino920135.github.io/Notes//#/page/Work%20Management)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
