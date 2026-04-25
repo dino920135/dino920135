@@ -9,13 +9,13 @@
 - [@Papers](https://dino920135.github.io/Notes//#/page/@Papers)
 - [Coding](https://dino920135.github.io/Notes//#/page/Coding)
 - [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [DevOps & Systems](https://dino920135.github.io/Notes//#/page/DevOps%20&%20Systems)
+- [GNSS Receivers](https://dino920135.github.io/Notes//#/page/GNSS%20Receivers)
 - [Hardware & Embedded](https://dino920135.github.io/Notes//#/page/Hardware%20&%20Embedded)
+- [INS](https://dino920135.github.io/Notes//#/page/INS)
 - [Personal/Health](https://dino920135.github.io/Notes//#/page/Personal%2FHealth)
+- [Radar](https://dino920135.github.io/Notes//#/page/Radar)
 - [SLAM & Estimation](https://dino920135.github.io/Notes//#/page/SLAM%20&%20Estimation)
 - [Work Management](https://dino920135.github.io/Notes//#/page/Work%20Management)
-- [Modeling Point Uncertainty in Radar SLAM](https://dino920135.github.io/Notes//#/page/Modeling%20Point%20Uncertainty%20in%20Radar%20SLAM)
-- [Mount SMB Network Drive on Ubuntu with Full Speed](https://dino920135.github.io/Notes//#/page/Mount%20SMB%20Network%20Drive%20on%20Ubuntu%20with%20Full%20Speed)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
