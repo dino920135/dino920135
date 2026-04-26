@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Fast DDS vs Cyclone DDS](https://dino920135.github.io/Notes//#/page/Fast%20DDS%20vs%20Cyclone%20DDS)
 - [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
 - [Logseq](https://dino920135.github.io/Notes//#/page/Logseq)
 - [@Papers](https://dino920135.github.io/Notes//#/page/@Papers)
@@ -15,7 +16,6 @@
 - [Tightly-Coupled Radar-Visual-Inertial Odometry - Paper with Code](https://dino920135.github.io/Notes//#/page/Tightly-Coupled%20Radar-Visual-Inertial%20Odometry%20-%20Paper%20with%20Code)
 - [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
 - [ColoRadar-Studied](https://dino920135.github.io/Notes//#/page/ColoRadar-Studied)
-- [FMCW Radar Chirp Design](https://dino920135.github.io/Notes//#/page/FMCW%20Radar%20Chirp%20Design)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
