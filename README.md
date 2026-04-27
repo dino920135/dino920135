@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
+- [Connecting Obsidian to Agent with obsidian-cli](https://dino920135.github.io/Notes//#/page/Connecting%20Obsidian%20to%20Agent%20with%20obsidian-cli)
+- [Crash Course Electronics and PCB Design](https://dino920135.github.io/Notes//#/page/Crash%20Course%20Electronics%20and%20PCB%20Design)
+- [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
+- [Publish tf2 in ROS 2 with Launch File](https://dino920135.github.io/Notes//#/page/Publish%20tf2%20in%20ROS%202%20with%20Launch%20File)
 - [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
 - [Radar](https://dino920135.github.io/Notes//#/page/Radar)
 - [Logseq Basics](https://dino920135.github.io/Notes//#/page/Logseq%20Basics)
 - [Logseq](https://dino920135.github.io/Notes//#/page/Logseq)
 - [Fast DDS vs Cyclone DDS](https://dino920135.github.io/Notes//#/page/Fast%20DDS%20vs%20Cyclone%20DDS)
-- [ROS 2](https://dino920135.github.io/Notes//#/page/ROS%202)
-- [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
-- [@Papers](https://dino920135.github.io/Notes//#/page/@Papers)
-- [Logseq/Query](https://dino920135.github.io/Notes//#/page/Logseq%2FQuery)
-- [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
