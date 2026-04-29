@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu Desktop Auto Login](https://dino920135.github.io/Notes//#/page/Ubuntu%20Desktop%20Auto%20Login)
-- [tty autologin](https://dino920135.github.io/Notes//#/page/tty%20autologin)
-- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
-- [José A. Castellanos.md"](https://dino920135.github.io/Notes//#/page/José%20A.%20Castellanos.md")
-- [Juan D. Tardós.md"](https://dino920135.github.io/Notes//#/page/Juan%20D.%20Tardós.md")
+- [Debug Dual-Core STM32H7 with STM32 Cube IDE](https://dino920135.github.io/Notes//#/page/Debug%20Dual-Core%20STM32H7%20with%20STM32%20Cube%20IDE)
+- [Logseq Admonition Example](https://dino920135.github.io/Notes//#/page/Logseq%20Admonition%20Example)
+- [Logseq Basics](https://dino920135.github.io/Notes//#/page/Logseq%20Basics)
+- [Logseq Organizing TAGs with Namespace and Alias](https://dino920135.github.io/Notes//#/page/Logseq%20Organizing%20TAGs%20with%20Namespace%20and%20Alias)
 - [Logseq Query Templates](https://dino920135.github.io/Notes//#/page/Logseq%20Query%20Templates)
 - [Logseq Starters](https://dino920135.github.io/Notes//#/page/Logseq%20Starters)
+- [Logseq/Query](https://dino920135.github.io/Notes//#/page/Logseq%2FQuery)
 - [Logseq](https://dino920135.github.io/Notes//#/page/Logseq)
-- [ORPHANED](https://dino920135.github.io/Notes//#/page/ORPHANED)
-- [setup zsh](https://dino920135.github.io/Notes//#/page/setup%20zsh)
+- [Publishing Logseq to GitHub Pages](https://dino920135.github.io/Notes//#/page/Publishing%20Logseq%20to%20GitHub%20Pages)
+- [TODO](https://dino920135.github.io/Notes//#/page/TODO)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
