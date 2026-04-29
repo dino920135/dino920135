@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Desktop Auto Login](https://dino920135.github.io/Notes//#/page/Ubuntu%20Desktop%20Auto%20Login)
+- [tty autologin](https://dino920135.github.io/Notes//#/page/tty%20autologin)
+- [Contents](https://dino920135.github.io/Notes//#/page/Contents)
+- [José A. Castellanos.md"](https://dino920135.github.io/Notes//#/page/José%20A.%20Castellanos.md")
+- [Juan D. Tardós.md"](https://dino920135.github.io/Notes//#/page/Juan%20D.%20Tardós.md")
+- [Logseq Query Templates](https://dino920135.github.io/Notes//#/page/Logseq%20Query%20Templates)
+- [Logseq Starters](https://dino920135.github.io/Notes//#/page/Logseq%20Starters)
+- [Logseq](https://dino920135.github.io/Notes//#/page/Logseq)
+- [ORPHANED](https://dino920135.github.io/Notes//#/page/ORPHANED)
 - [setup zsh](https://dino920135.github.io/Notes//#/page/setup%20zsh)
-- [Mount SMB Network Drive on Ubuntu with Full Speed](https://dino920135.github.io/Notes//#/page/Mount%20SMB%20Network%20Drive%20on%20Ubuntu%20with%20Full%20Speed)
-- [Connecting Obsidian to Agent with obsidian-cli](https://dino920135.github.io/Notes//#/page/Connecting%20Obsidian%20to%20Agent%20with%20obsidian-cli)
-- [VS Code Basics](https://dino920135.github.io/Notes//#/page/VS%20Code%20Basics)
-- [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes//#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
-- [Crash Course Electronics and PCB Design](https://dino920135.github.io/Notes//#/page/Crash%20Course%20Electronics%20and%20PCB%20Design)
-- [DOODLE](https://dino920135.github.io/Notes//#/page/DOODLE)
-- [Publish tf2 in ROS 2 with Launch File](https://dino920135.github.io/Notes//#/page/Publish%20tf2%20in%20ROS%202%20with%20Launch%20File)
-- [VS Code SSH](https://dino920135.github.io/Notes//#/page/VS%20Code%20SSH)
-- [Radar](https://dino920135.github.io/Notes//#/page/Radar)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
