@@ -6,6 +6,9 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
+- [Tailscale](https://dino920135.github.io/Notes//#/page/Tailscale)
+- [btop](https://dino920135.github.io/Notes//#/page/btop)
 - [STM/ST-Link](https://dino920135.github.io/Notes//#/page/STM%2FST-Link)
 - [Linking Static Library in STM32 Cube IDE Project](https://dino920135.github.io/Notes//#/page/Linking%20Static%20Library%20in%20STM32%20Cube%20IDE%20Project)
 - [Debug Dual-Core STM32H7 with STM32 Cube IDE](https://dino920135.github.io/Notes//#/page/Debug%20Dual-Core%20STM32H7%20with%20STM32%20Cube%20IDE)
@@ -13,9 +16,6 @@
 - [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [Use LLM for Journal Reading](https://dino920135.github.io/Notes//#/page/Use%20LLM%20for%20Journal%20Reading)
 - [Dev/Tmux](https://dino920135.github.io/Notes//#/page/Dev%2FTmux)
-- [VS Code Basics](https://dino920135.github.io/Notes//#/page/VS%20Code%20Basics)
-- [Logseq Basics](https://dino920135.github.io/Notes//#/page/Logseq%20Basics)
-- [Logseq Admonition Example](https://dino920135.github.io/Notes//#/page/Logseq%20Admonition%20Example)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
