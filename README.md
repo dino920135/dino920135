@@ -6,6 +6,8 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [GPIO Push Pull Mode v.s Open Drain mode](https://dino920135.github.io/Notes//#/page/GPIO%20Push%20Pull%20Mode%20v.s%20Open%20Drain%20mode)
+- [TODO](https://dino920135.github.io/Notes//#/page/TODO)
 - [TrueNas](https://dino920135.github.io/Notes//#/page/TrueNas)
 - [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
 - [Tailscale](https://dino920135.github.io/Notes//#/page/Tailscale)
@@ -14,8 +16,6 @@
 - [Linking Static Library in STM32 Cube IDE Project](https://dino920135.github.io/Notes//#/page/Linking%20Static%20Library%20in%20STM32%20Cube%20IDE%20Project)
 - [Debug Dual-Core STM32H7 with STM32 Cube IDE](https://dino920135.github.io/Notes//#/page/Debug%20Dual-Core%20STM32H7%20with%20STM32%20Cube%20IDE)
 - [Run Dual-Core STM32H7 with STM32 Cube IDE](https://dino920135.github.io/Notes//#/page/Run%20Dual-Core%20STM32H7%20with%20STM32%20Cube%20IDE)
-- [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
-- [Use LLM for Journal Reading](https://dino920135.github.io/Notes//#/page/Use%20LLM%20for%20Journal%20Reading)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
