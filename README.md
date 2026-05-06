@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [TrueNas](https://dino920135.github.io/Notes//#/page/TrueNas)
 - [Configuring netplan with nmcli](https://dino920135.github.io/Notes//#/page/Configuring%20netplan%20with%20nmcli)
 - [Tailscale](https://dino920135.github.io/Notes//#/page/Tailscale)
 - [btop](https://dino920135.github.io/Notes//#/page/btop)
@@ -15,7 +16,6 @@
 - [Run Dual-Core STM32H7 with STM32 Cube IDE](https://dino920135.github.io/Notes//#/page/Run%20Dual-Core%20STM32H7%20with%20STM32%20Cube%20IDE)
 - [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [Use LLM for Journal Reading](https://dino920135.github.io/Notes//#/page/Use%20LLM%20for%20Journal%20Reading)
-- [Dev/Tmux](https://dino920135.github.io/Notes//#/page/Dev%2FTmux)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
