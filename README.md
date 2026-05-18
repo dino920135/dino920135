@@ -6,9 +6,9 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Starting STM32 Cube IDE Project with Cube MX](https://dino920135.github.io/Notes//#/page/Starting%20STM32%20Cube%20IDE%20Project%20with%20Cube%20MX)
 - [Tailscale](https://dino920135.github.io/Notes//#/page/Tailscale)
 - [LaTex writing with VS Code](https://dino920135.github.io/Notes//#/page/LaTex%20writing%20with%20VS%20Code)
-- [Starting STM32 Cube IDE Project with Cube MX](https://dino920135.github.io/Notes//#/page/Starting%20STM32%20Cube%20IDE%20Project%20with%20Cube%20MX)
 - [GPSDO](https://dino920135.github.io/Notes//#/page/GPSDO)
 - [Gemini CLI](https://dino920135.github.io/Notes//#/page/Gemini%20CLI)
 - [OBDLink EX + obdwiz](https://dino920135.github.io/Notes//#/page/OBDLink%20EX%20+%20obdwiz)
