@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [STM/ST-Link](https://dino920135.github.io/Notes//#/page/STM%2FST-Link)
 - [Map Custom Port Name to Physical Port](https://dino920135.github.io/Notes//#/page/Map%20Custom%20Port%20Name%20to%20Physical%20Port)
 - [Starting STM32 Cube IDE Project with Cube MX](https://dino920135.github.io/Notes//#/page/Starting%20STM32%20Cube%20IDE%20Project%20with%20Cube%20MX)
 - [Tailscale](https://dino920135.github.io/Notes//#/page/Tailscale)
@@ -15,7 +16,6 @@
 - [OBDLink EX + obdwiz](https://dino920135.github.io/Notes//#/page/OBDLink%20EX%20+%20obdwiz)
 - [GPIO Push Pull Mode v.s Open Drain mode](https://dino920135.github.io/Notes//#/page/GPIO%20Push%20Pull%20Mode%20v.s%20Open%20Drain%20mode)
 - [TODO](https://dino920135.github.io/Notes//#/page/TODO)
-- [TrueNas](https://dino920135.github.io/Notes//#/page/TrueNas)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
