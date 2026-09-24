@@ -1,50 +1,62 @@
-# Show the current git status (used for debugging purposes)
-git show
-# Move one level up in the directory structure
-cd ../
-# Clone the repository from GitHub into the current directory
-git clone https://github.com/dino920135/Notes
-echo "$PWD"
+#!/bin/sh
+# Usage: GetListInRepo.sh <notes-repo-dir> <target-file>
+#
+# Rewrites the lines between the BLOG-POST-LIST:START / BLOG-POST-LIST:END markers in
+# <target-file> with the ten most recently edited Logseq pages and journals.
 
-cd Notes/pages
-echo "$PWD"
+NOTES="$1"
+TARGET="$2"
+BASE="https://dino920135.github.io/Notes/#/page"
 
-######### Remove Old Lists ##########
+######### Remove Old List ##########
 
-# Remove the section of the README.md file between the markers 'BLOG-POST-LIST:START' and 'BLOG-POST-LIST:END'.
-# The '//!d' inside the curly braces deletes all lines in this range, effectively clearing the list.
-sed -i '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/{//!d}' ../../dino920135/README.md 
+# Delete everything strictly between the two markers (the markers themselves stay).
+sed -i '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/{//!d}' "$TARGET"
 
-# This command removes any lines containing '.md]' in the README.md file, which could be left over from previous links.
-sed -i '/.md]/d' ../../dino920135/README.md
-# cat ../../dino920135/README.md
+######### Fetch Most Recently Modified 10 Files ##########
 
-######### Fetch Most Recent Modified 10 Files ##########
+# The pathspecs are quoted so git matches them against history, not the shell against
+# the working tree. `awk '!seen[$0]++'` keeps the first (most recent) mention of each
+# file, and files that no longer exist are skipped before taking the top ten.
+git -C "$NOTES" log --pretty='' --name-only -- 'pages/*.md' 'journals/*.md' \
+  | awk '!seen[$0]++' \
+  | while read -r path; do
+      [ -f "$NOTES/$path" ] && echo "$path"
+    done \
+  | head -n 10 \
+  | while read -r path; do
+      file_name=$(basename "$path" .md)
 
-# The `git log` command retrieves the most recent changes in files with a `.md` extension.
-# It uses the 'name-only' option to list just the filenames, and `awk '!seen[$0]++'` removes duplicates.
-# The `head -n 10` limits the output to the most recent 10 unique files.
-# We then process these files, handling those with spaces properly using the `while` loop.
-git log --pretty='' --name-only -- $PWD/*.md | awk '!seen[$0]++' | head -n 10 | while read -r dir
-do 
-  # Extract the filename without the path using 'basename'
-  file_name=$(basename "$dir")
-  # Remove the '.md' extension from the filename to get the page name
-  page_name=${file_name%.md}
-  # Print the page name (used for debugging to ensure the correct filename is picked up)
-  echo $page_name
-  #file_name=$dir
-  
-  # Replace any spaces in the page name with '%20' for proper URL encoding
-  page_name_encoded=$(echo "$page_name" | sed 's/ /%20/g')
-  # Replace "%2F" in the page name with "/"
-  page_name=$(echo "$page_name" | sed 's/%2F/\//g')
-  
-  # Append a new list item to the README.md file under the 'BLOG-POST-LIST:END' marker
-  # The link format is markdown style: - [page_name](URL)
-  # This inserts a clickable link to the page based on the encoded page name
-  sed -i "/BLOG-POST-LIST:END/i - [$page_name](https://dino920135.github.io/Notes//#/page/$page_name_encoded)" ../../dino920135/README.md
-done
+      case "$path" in
+        journals/*)
+          # 2026_05_25 -> "May 25th, 2026", Logseq's default journal title format.
+          ymd=$(echo "$file_name" | tr '_' '-')
+          day=$(date -d "$ymd" '+%-d')
+          case "$day" in
+            1|21|31) suffix=st ;;
+            2|22)    suffix=nd ;;
+            3|23)    suffix=rd ;;
+            *)       suffix=th ;;
+          esac
+          page_name="$(date -d "$ymd" '+%b') ${day}${suffix}, $(date -d "$ymd" '+%Y')"
+          ;;
+        *)
+          # Namespaced pages are stored as "Dev%2FGit.md"; display them as "Dev/Git".
+          page_name=$(echo "$file_name" | sed 's/%2F/\//g')
+          ;;
+      esac
 
-# Output the updated README.md content to verify changes
-cat ../../dino920135/README.md
+      # Spaces -> %20; "/" is re-encoded so a namespace stays one URL segment.
+      page_name_encoded=$(echo "$page_name" | sed -e 's/\//%2F/g' -e 's/ /%20/g')
+      echo "$page_name"
+
+      line="- [$page_name]($BASE/$page_name_encoded)"
+
+      # Insert above the END marker, so items keep their most-recent-first order.
+      # (Backslashes are escaped because sed's i command treats them specially.)
+      line=$(echo "$line" | sed 's/\\/\\\\/g')
+      sed -i "/BLOG-POST-LIST:END/i $line" "$TARGET"
+    done
+
+# Output the updated list to verify changes
+sed -n '/BLOG-POST-LIST:START/,/BLOG-POST-LIST:END/p' "$TARGET"
