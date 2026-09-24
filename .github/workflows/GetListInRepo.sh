@@ -3,10 +3,16 @@
 #
 # Rewrites the lines between the BLOG-POST-LIST:START / BLOG-POST-LIST:END markers in
 # <target-file> with the ten most recently edited Logseq pages and journals.
+# A .html target gets <li> items; anything else gets a Markdown list.
 
 NOTES="$1"
 TARGET="$2"
 BASE="https://dino920135.github.io/Notes/#/page"
+
+case "$TARGET" in
+  *.html) FORMAT=html ;;
+  *)      FORMAT=md ;;
+esac
 
 ######### Remove Old List ##########
 
@@ -50,7 +56,12 @@ git -C "$NOTES" log --pretty='' --name-only -- 'pages/*.md' 'journals/*.md' \
       page_name_encoded=$(echo "$page_name" | sed -e 's/\//%2F/g' -e 's/ /%20/g')
       echo "$page_name"
 
-      line="- [$page_name]($BASE/$page_name_encoded)"
+      if [ "$FORMAT" = html ]; then
+        label=$(echo "$page_name" | sed -e 's/&/\&amp;/g' -e 's/</\&lt;/g' -e 's/>/\&gt;/g')
+        line="<li><a href=\"$BASE/$page_name_encoded\">$label</a></li>"
+      else
+        line="- [$page_name]($BASE/$page_name_encoded)"
+      fi
 
       # Insert above the END marker, so items keep their most-recent-first order.
       # (Backslashes are escaped because sed's i command treats them specially.)
