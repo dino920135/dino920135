@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme-with-notes:
-    name: Update README and site with latest logseq notes
+    name: Update README with latest logseq notes
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,27 +22,11 @@ jobs:
           path: notes
           fetch-depth: 0
 
-      # GITHUB_TOKEN can't push to another repo; PAGES_TOKEN is a fine-grained PAT with
-      # Contents: read/write on dino920135.github.io.
-      - uses: actions/checkout@v4
-        with:
-          repository: dino920135/dino920135.github.io
-          path: site
-          token: ${{ secrets.PAGES_TOKEN }}
-
       - name: Update README list
         run: sh profile/.github/workflows/GetListInRepo.sh notes profile/README.md
-      - name: Update site list
-        run: sh profile/.github/workflows/GetListInRepo.sh notes site/index.html
 
       - uses: EndBug/add-and-commit@v9
         with:
           cwd: ./profile
           message: "Update readme with Github Action"
-          default_author: github_actions
-
-      - uses: EndBug/add-and-commit@v9
-        with:
-          cwd: ./site
-          message: "Update notes list with Github Action"
           default_author: github_actions
