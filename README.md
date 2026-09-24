@@ -6,6 +6,7 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
+- [Windows RDP (Remote Desktop Protocol)](https://dino920135.github.io/Notes/#/page/Windows%20RDP%20(Remote%20Desktop%20Protocol))
 - [Use LLM for Journal Reading](https://dino920135.github.io/Notes/#/page/Use%20LLM%20for%20Journal%20Reading)
 - [May 25th, 2026](https://dino920135.github.io/Notes/#/page/May%2025th,%202026)
 - [STM/ST-Link](https://dino920135.github.io/Notes/#/page/STM%2FST-Link)
@@ -15,7 +16,6 @@
 - [LaTex writing with VS Code](https://dino920135.github.io/Notes/#/page/LaTex%20writing%20with%20VS%20Code)
 - [GPSDO](https://dino920135.github.io/Notes/#/page/GPSDO)
 - [Gemini CLI](https://dino920135.github.io/Notes/#/page/Gemini%20CLI)
-- [OBDLink EX + obdwiz](https://dino920135.github.io/Notes/#/page/OBDLink%20EX%20+%20obdwiz)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
