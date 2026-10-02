@@ -6,16 +6,16 @@
 ## [Contents](https://dino920135.github.io/Notes/#/page/contents)
 ## Recent Update Notes
 <!-- BLOG-POST-LIST:START -->
-- [Shrinking Logseq Git Repo with git gc](https://dino920135.github.io/Notes/#/page/Shrinking%20Logseq%20Git%20Repo%20with%20git%20gc)
-- [Windows RDP (Remote Desktop Protocol)](https://dino920135.github.io/Notes/#/page/Windows%20RDP%20(Remote%20Desktop%20Protocol))
-- [Use LLM for Journal Reading](https://dino920135.github.io/Notes/#/page/Use%20LLM%20for%20Journal%20Reading)
-- [May 25th, 2026](https://dino920135.github.io/Notes/#/page/May%2025th,%202026)
-- [STM/ST-Link](https://dino920135.github.io/Notes/#/page/STM%2FST-Link)
-- [Map Custom Port Name to Physical Port](https://dino920135.github.io/Notes/#/page/Map%20Custom%20Port%20Name%20to%20Physical%20Port)
-- [Starting STM32 Cube IDE Project with Cube MX](https://dino920135.github.io/Notes/#/page/Starting%20STM32%20Cube%20IDE%20Project%20with%20Cube%20MX)
-- [Tailscale](https://dino920135.github.io/Notes/#/page/Tailscale)
-- [LaTex writing with VS Code](https://dino920135.github.io/Notes/#/page/LaTex%20writing%20with%20VS%20Code)
-- [GPSDO](https://dino920135.github.io/Notes/#/page/GPSDO)
+- [Oct 2nd, 2026](https://dino920135.github.io/Notes/#/page/Oct%202nd,%202026)
+- [APT Sources File Troubleshooting](https://dino920135.github.io/Notes/#/page/APT%20Sources%20File%20Troubleshooting)
+- [AWR1843 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes/#/page/AWR1843%20BOOST+DCA1000EVM%20data%20capture)
+- [AWR2243 BOOST+DCA1000EVM data capture](https://dino920135.github.io/Notes/#/page/AWR2243%20BOOST+DCA1000EVM%20data%20capture)
+- [Auto Covariance & Auto Correlation Functions](https://dino920135.github.io/Notes/#/page/Auto%20Covariance%20&%20Auto%20Correlation%20Functions)
+- [Auto mount SD Card on boot](https://dino920135.github.io/Notes/#/page/Auto%20mount%20SD%20Card%20on%20boot)
+- [Coding](https://dino920135.github.io/Notes/#/page/Coding)
+- [Comparison of 3D printing filaments](https://dino920135.github.io/Notes/#/page/Comparison%20of%203D%20printing%20filaments)
+- [Connecting Obsidian to Agent with obsidian-cli](https://dino920135.github.io/Notes/#/page/Connecting%20Obsidian%20to%20Agent%20with%20obsidian-cli)
+- [Debug Dual-Core STM32H7 with STM32 Cube IDE](https://dino920135.github.io/Notes/#/page/Debug%20Dual-Core%20STM32H7%20with%20STM32%20Cube%20IDE)
 <!-- BLOG-POST-LIST:END -->
 
 Update with Github Action [see workflow](https://github.com/dino920135/dino920135/tree/main/.github/workflows)
